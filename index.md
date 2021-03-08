@@ -1,5 +1,6 @@
 ## Welcome to the Web Programming Course
 
+{% include navigation.html}
 
 ## Resources:
 
