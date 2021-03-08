@@ -1,7 +1,5 @@
 ## Welcome to the Web Programming Course
 
-{% include navigation.html %}
-
 ## Resources:
 
 **Lesson 1** - [Introduction]() (slides)
