@@ -1,5 +1,6 @@
 ## Web Programming 2021
-> UNIVERSITÀ DEGLI STUDI DI CATANIA DIPARTIMENTO DI INGEGNERIA ELETTRICA ELETTRONICA E INFORMATICA
+> UNIVERSITÀ DEGLI STUDI DI CATANIA 
+> DIPARTIMENTO DI INGEGNERIA ELETTRICA ELETTRONICA E INFORMATICA
 
 Benvenuti al corso di Web Programming 2021.
 
@@ -20,42 +21,42 @@ Durante il corso si utilizzera', Piazza come forum per tutti gli aspetti tecnici
 La roadmap e' provvisoria e puo' subire variazioni.
 
 
-Homework 2 Assegnazione: Maggio 21, 2020 - Consegna: 20 Giugno 2020 - Discussione: 22 Giugno 2020
+- Homework 2 Assegnazione: Maggio 21, 2020 - Consegna: 20 Giugno 2020 - Discussione: 22 Giugno 2020
 
-Homework 1 Assegnazione: Aprile 21, 2020 - Consegna: Maggio 06, 2020
+- Homework 1 Assegnazione: Aprile 21, 2020 - Consegna: Maggio 06, 2020
 
-MHW3 (PHP+Javascript+AJAX) Assegnazione: Aprile 09, 2020 - Consegna: Aprile 17, 2020
+- MHW3 (PHP+Javascript+AJAX) Assegnazione: Aprile 09, 2020 - Consegna: Aprile 17, 2020
 
-MHW2 (Javascript+HTML) Assegnazione: Marzo 31, 2020 - Consegna: Aprile 06, 2020
+- MHW2 (Javascript+HTML) Assegnazione: Marzo 31, 2020 - Consegna: Aprile 06, 2020
 
-MHW1 (HTML+CSS) Assegnazione: Marzo 19, 2020- Consegna: Marzo 26, 2020
+- MHW1 (HTML+CSS) Assegnazione: Marzo 19, 2020- Consegna: Marzo 26, 2020
 
-MHW0 (HTML) Assegnazione: Marzo 12, 2020 - Consegna: Marzo 15, 2020
+- MHW0 (HTML) Assegnazione: Marzo 12, 2020 - Consegna: Marzo 15, 2020
 
 
 ## VALUTAZIONE
 
-Studenti che frequentano il corso:
+#### Studenti che frequentano il corso:
 
-3 mini-homework (da svolgere singolarmente): 25% del voto finale.
+- 3 mini-homework (da svolgere singolarmente): 25% del voto finale.
 
-1 homework su PHP/JS e REST API(da svolgere singolarmente): 30% del voto finale.
+- 1 homework su PHP/JS e REST API(da svolgere singolarmente): 30% del voto finale.
 
-1 homework su LARAVEL (porting homework precedente in Laravel): 30% del voto finale.
+- 1 homework su LARAVEL (porting homework precedente in Laravel): 30% del voto finale.
 
-Partecipazione a due seminari: 5% del voto finale.
+- Partecipazione a due seminari: 5% del voto finale.
 
-Questionari durante lezioni: 10% del voto finale.
+- Questionari durante lezioni: 10% del voto finale.
 
-Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
+#### Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
 
-Sviluppo di un'applicazione web secondo le sequenti specifiche
+- Sviluppo di un'applicazione web secondo le seguenti specifiche
 
 
 ## STAFF
 
-Simone Palazzo - palazzosim@dieei.unict.it
+Simone Palazzo - [mail](palazzosim@dieei.unict.it)
 
-Carmelo Pino - cpino@dieei.unict.it
+Carmelo Pino - [mail](cpino@dieei.unict.it)
 
-Concetto Spampinato - cspampin@dieei.unict.it
+Concetto Spampinato - [mail](cspampin@dieei.unict.it)
