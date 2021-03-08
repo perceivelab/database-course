@@ -1,3 +1,5 @@
 name: Web Programming Course
 markdown: kramdown
-url: https://perceivelab.github.io/web-programming-course/
+
+baseurl: "/web-programming-course"
+url: "https://perceivelab.github.io"
