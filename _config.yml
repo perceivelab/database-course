@@ -3,3 +3,4 @@ markdown: kramdown
 
 baseurl: "/web-programming-course"
 url: "https://perceivelab.github.io"
+theme: jekyll-theme-cayman
