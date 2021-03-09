@@ -1,6 +1,6 @@
 # Web Programming 2021
 
-![logo](/imgs/logo.png)
+[![logo](/imgs/logo.png)](http://www.dieei.unict.it/corsi/l-8-inf)
 
 ### Benvenuti al corso di Web Programming 2021.
 
