@@ -52,12 +52,13 @@ Sviluppo di un'applicazione web secondo le seguenti [specifiche][404]
 
 # STAFF
 
-- Simone Palazzo - *[mail](palazzosim@dieei.unict.it)*
+- Simone Palazzo - *[mail](mailto:palazzosim@dieei.unict.it)*
 
-- Carmelo Pino - *[mail](cpino@dieei.unict.it)*
+- Carmelo Pino - *[mail](mailto:cpino@dieei.unict.it)*
 
-- Concetto Spampinato - *[mail](cspampin@dieei.unict.it)*
+- Concetto Spampinato - *[mail](mailto:cspampin@dieei.unict.it)*
 
-- Renato Sortino - *[mail](renato.sortino@phd.unict.it)*
+- Renato Sortino - *[mail](mailto:renato.sortino@phd.unict.it)*
+
 
 [404]: /web-programming-course/fallback
