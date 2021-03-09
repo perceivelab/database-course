@@ -9,4 +9,4 @@ Questa pagina contiene linsieme degli homework assegnati durante il corso di web
 | HW1      | Sito Completo      | Aprile 22, 2021 | Maggio 08, 2021   | [Link][404]        | [Link][404] |
 | HW2      | Porting HW1 in MVC | Maggio 13, 2021 | 05 Giugno 2021    | [Link][404]        | [Link][404] |
 
-[404]: /fallback
+[404]: /web-programming-course/fallback
