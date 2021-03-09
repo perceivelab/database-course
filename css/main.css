@@ -22,12 +22,12 @@ table thead th {
 }
 table tbody td {
     border-bottom: solid 1px #ccc;
-    color: #333;
+    color: #737373;
     padding: 10px;
 }
 table tbody tr:nth-child(odd){
   background-color: #f6f6f6;
-  color: #3c3c3c;
+  color: #737373;
 }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #737373; }
