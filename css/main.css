@@ -3,6 +3,32 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; color: darkorange; }
 a:hover { text-decoration: underline; }
 
+img {
+    height: auto;
+    max-width: 70%;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #737373; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
