@@ -47,7 +47,7 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 #### Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
 
-Sviluppo di un'applicazione web secondo le seguenti specifiche
+Sviluppo di un'applicazione web secondo le seguenti [specifiche][404]
 
 
 # STAFF
@@ -59,3 +59,5 @@ Sviluppo di un'applicazione web secondo le seguenti specifiche
 - Concetto Spampinato - *[mail](cspampin@dieei.unict.it)*
 
 - Renato Sortino - *[mail](renato.sortino@phd.unict.it)*
+
+[404]: /web-programming-course/fallback
