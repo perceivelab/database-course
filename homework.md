@@ -1,33 +1,12 @@
 # HOMEWORK
-Questa pagina contiene linsieme degli homework assegnati durante il corso di web programming 2021
+Questa pagina contiene linsieme degli homework assegnati durante il corso di web programming 2021 
 
-### Homework 1
-[Testo consegna]()
+| Homework | Argomento          | Assegnazione    | Scadenza          | Testo Consegna  | Template |
+| :-------:| ------------------ | --------------- | -------           | :--------:      | :------: |
+| MHW1     | HTML + CSS         | Marzo 18, 2021  | Marzo 27, 2021    | [Link][404]        | [Link][404] |
+| MHW2     | Javascript         | Marzo 30, 2021  | Aprile 10, 2021   | [Link][404]        | [Link][404] |
+| MHW3     | REST API           | Aprile 08, 2021 | Aprile 17, 2021   | [Link][404]        | [Link][404] |
+| HW1      | Sito Completo      | Aprile 22, 2021 | Maggio 08, 2021   | [Link][404]        | [Link][404] |
+| HW2      | Porting HW1 in MVC | Maggio 13, 2021 | 05 Giugno 2021    | [Link][404]        | [Link][404] |
 
-[Template presentazione]()
-
-Data consegna:
-
-
-### MiniHomeWork 2
-
-[Testo consegna]()
-
-[Codice partenza homework mhw2_starting_code.zip]()
-
-Data consegna: 
-
-
-### MiniHomeWork 1
-
-[Testo consegna]()
-
-Data consegna: 
-
-
-### MiniHomeWork 0
-[Testo consegna]()
-
-[Codice partenza homework mhw0.zip]()
-
-Data consegna: 
+[404]: /fallback
