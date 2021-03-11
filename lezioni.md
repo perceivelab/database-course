@@ -6,8 +6,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
 | Introduzione  | Introduzione Corso                                           | 09 Marzo 2021   | [Link](https://drive.google.com/file/d/1IJ0YSVa5bRcM_ZrCnDXTHvEy0EeDsWkX/view?usp=sharing)                                         |             |
 | Lezione 1  | HTML + CSS                                                      | 09 Marzo 2021   | [Link](https://drive.google.com/file/d/1_90rl-51YiViR6deMLtBrlO4Zvf2BSew/view?usp=sharing)                                         |             |
-| Lezione 2  | CSS                                                             | 11 Marzo 2021   | [Link](https://drive.google.com/file/d/1AppEjI0lua0GmvrVDSZKFmfa7-XPdvAN/view?usp=sharing)    |             |
-| Lezione 3  | Flexbox                                                         | 16 Marzo 2021   | [Link][404]                     |             |
+| Lezione 2  | CSS                                                             | 11 Marzo 2021   | [Link](https://drive.google.com/file/d/180nPa4GNTvo0qR_iqiU1TSwAbB_8D1sM/view?usp=sharing)    |             |
+| Lezione 3  | Flexbox                                                         | 16 Marzo 2021   | [Link](https://drive.google.com/file/d/1AppEjI0lua0GmvrVDSZKFmfa7-XPdvAN/view?usp=sharing)                     |             |
 | Lezione 4  | Position/mobile                                                 | 18 Marzo 2021   | [Link][404]                     |             |   
 | Lezione 5  | Svolgimento esercizio MHW1                                      | 23 Marzo 2021   | [Link][404]                     |             |
 | Lezione 6  | Intro JS + DOM                                                  | 25 Marzo 2021   | [Link][404]                     |             |
