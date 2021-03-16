@@ -2,7 +2,8 @@
 
 [![logo](/imgs/logo.png)](http://www.dieei.unict.it/corsi/l-8-inf)
 
-{: .welcome} ### Benvenuti al corso di Web Programming 2021.
+### Benvenuti al corso di Web Programming 2021.
+{: .welcome} 
 
 **Prerequisiti**: Conoscenza dei linguaggi di programmazione (C/Java)  
 
