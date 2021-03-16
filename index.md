@@ -38,7 +38,7 @@ La roadmap e' provvisoria e puo' subire variazioni.
 #### Studenti che frequentano il corso:
 
 | Elaborato     | Voto Finale   |
-| :--------:     |    -------: |
+| :--------     |    -------: |
 | 3 mini-homework (da svolgere singolarmente) | 10% |
 | 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 40%  |
 | 1 homework su LARAVEL (porting homework precedente in Laravel) | 40% |
