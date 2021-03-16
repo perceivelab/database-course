@@ -1,8 +1,8 @@
 ﻿## Mini-homework 1
 
-In questo MHW, utilizzerete le nozioni di HTML e CSS che abbiamo visto a lezione per creare la home page del progetto finale del corso.
+In questo MHW, utilizzerete le nozioni di HTML e CSS che abbiamo visto a lezione per creare la home page del vostro progetto.
 
-La consegna del MHW dovrà includere:
+La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere:
 * i file `mhw1.html`, `mhw1.css` e le immagini da inserire nella pagina;
 * una presentazione in PowerPoint, `mhw1.pptx`, che descrive l'implementazione e le specifiche utilizzate nella pagina.
 
@@ -54,4 +54,3 @@ Per una piena valutazione, rispettate le seguenti specifiche:
 -   **Seguite le linee guida** che abbiamo presentato durante le lezioni.
 -   **Minimizzate la ridondanza nel CSS.** Cercate di non avere regole di stile ridondanti, se c'è il modo di sfruttare l'ereditarietà o la specificità.
 -   **Usate nomi descrittivi, indentate il codice,** e in generale seguite le buone norme relativa alla programmazione.
-
