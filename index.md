@@ -38,14 +38,12 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 - Studenti che frequentano il corso:
 
-| Elaborato     | Voto Finale   |
-| :--------     |    -------: |
-| 3 mini-homework (da svolgere singolarmente) | 10% |
-| 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 40%  |
-| 1 homework su LARAVEL (porting homework precedente in Laravel) | 40% |
-| Integrazione ReactJS e NodeJS | 10% |
-
-
+  | Elaborato     | Voto Finale   |
+  | :--------     |    -------: |
+  | 3 mini-homework (da svolgere singolarmente) | 10% |
+  | 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 40%  |
+  | 1 homework su LARAVEL (porting homework precedente in Laravel) | 40% |
+  | Integrazione ReactJS e NodeJS | 10% |
 
 - Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
 
@@ -54,13 +52,13 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 # STAFF
 
-- Simone Palazzo - *[mail](mailto:palazzosim@dieei.unict.it)*
+- *[Simone Palazzo](mailto:palazzosim@dieei.unict.it)*
 
-- Carmelo Pino - *[mail](mailto:cpino@dieei.unict.it)*
+- *[Carmelo Pino](mailto:cpino@dieei.unict.it)*
 
-- Concetto Spampinato - *[mail](mailto:cspampin@dieei.unict.it)*
+- *[Concetto Spampinato](mailto:cspampin@dieei.unict.it)*
 
-- Renato Sortino - *[mail](mailto:renato.sortino@phd.unict.it)*
+- *[Renato Sortino](mailto:renato.sortino@phd.unict.it)*
 
 
 [404]: /web-programming-course/fallback
