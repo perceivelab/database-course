@@ -36,18 +36,20 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 # VALUTAZIONE
 
-- Studenti che frequentano il corso:
-
-  | Elaborato     | Voto Finale   |
-  | :--------     |    -------: |
-  | 3 mini-homework (da svolgere singolarmente) | 10% |
-  | 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 40%  |
-  | 1 homework su LARAVEL (porting homework precedente in Laravel) | 40% |
-  | Integrazione ReactJS e NodeJS | 10% |
-
 - Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
 
   - Sviluppo di un'applicazione web secondo le seguenti [specifiche][404]
+
+- Studenti che frequentano il corso:
+
+| Elaborato     | Voto Finale   |
+| :--------     |    -------: |
+| 3 mini-homework (da svolgere singolarmente) | 10% |
+| 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 40%  |
+| 1 homework su LARAVEL (porting homework precedente in Laravel) | 40% |
+| Integrazione ReactJS e NodeJS | 10% |
+
+
 
 
 # STAFF
