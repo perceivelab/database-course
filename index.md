@@ -17,7 +17,7 @@
 
 # AVVISI
 
-- _[18 Mar 2021]_ Il MHW1 è stato assegnato con scadenza 27 Marzo 2021. 
+- _[18 Mar 2021]_  -  Il MHW1 è stato assegnato con scadenza 27 Marzo 2021. 
 
 # FORUM
 Durante il corso si utilizzera', il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/Haz2TkaXxW).
@@ -49,7 +49,7 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 - Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
 
-Sviluppo di un'applicazione web secondo le seguenti [specifiche][404]
+  - Sviluppo di un'applicazione web secondo le seguenti [specifiche][404]
 
 
 # STAFF
