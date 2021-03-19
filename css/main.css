@@ -49,7 +49,7 @@ h4 { font-size: 1.9rem; }
     animation-duration: 3s;
 }
 
-nav ul, footer ul { font-size: 1rem; font-family: 'Helvetica', 'Arial'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 nav { font-size: 1.8em; color: #6562a8 }
