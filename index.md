@@ -1,5 +1,3 @@
-# Web Programming 2021
-
 ### Benvenuti al corso di Web Programming 2021.
 {: .welcome} 
 
