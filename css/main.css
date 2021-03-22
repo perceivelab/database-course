@@ -57,6 +57,10 @@ h4 { font-size: 1.9rem; }
     animation-duration: 3s;
 }
 
+#tag {
+    height: 32px;
+}
+
 nav ul, footer ul { 
     font-size: 1em;
     font-family: 'Helvetica', 'Arial';
