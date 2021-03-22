@@ -71,8 +71,17 @@ h4 { font-size: 1.9rem; }
     }
     
     nav ul, footer ul { 
-        font-size: .8em;
+        font-size: 1rem;
     }
+    
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.4em;
+    }
+    p, ul {
+        font-size: 1rem;
 }
 
 #tag img{
