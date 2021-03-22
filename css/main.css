@@ -57,6 +57,8 @@ h4 { font-size: 1.9rem; }
     animation-duration: 3s;
 }
 
+img {width: 100%;}
+
 #tag img{
     height: 32px;
 }
