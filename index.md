@@ -19,7 +19,8 @@ layout: default
 
 - _[18 Mar 2021]_  -  Il MHW1 è stato assegnato con data di consegna 27 Marzo 2021. 
 
-# FORUM ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white){: #tag}
+# FORUM ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white)
+{: #tag}
 Durante il corso si utilizzera', il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/Haz2TkaXxW).
 
 
