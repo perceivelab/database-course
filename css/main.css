@@ -2,7 +2,10 @@
 
 body { margin: 60px auto; width: 70%; }
 
-a { text-decoration: none; color: darkorange; }
+a { 
+    text-decoration: none;
+    color: darkorange;
+}
 a:hover { text-decoration: underline; }
 
 img {
@@ -17,7 +20,6 @@ table {
     font: normal 1.5em Helvetica Arial, sans-serif;
 }
 table thead th {
-    
     border-bottom: solid 2px darkorange;
     color: #3c3c3c;
     padding: 10px;
@@ -33,11 +35,17 @@ table tbody tr:nth-child(odd){
   color: #737373;
 }
 
-p, ul { font-size: 1.5rem; line-height: 1.4em; color: #737373; }
+p, ul { 
+    font-size: 1.5rem; 
+    line-height: 1.4em; 
+    color: #737373; 
+}
 
 h1, h2, h3, h4 { 
     font-family: 'Space Mono', monospace;
-    color: #3c3c3c }
+    color: #3c3c3c 
+}
+
 h1 { font-size: 3rem; }
 h2 { font-size: 2.7rem; }
 h3 { font-size: 2.3rem; }
@@ -49,12 +57,26 @@ h4 { font-size: 1.9rem; }
     animation-duration: 3s;
 }
 
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial'; padding: 0px; list-style: none; font-weight: bold; }
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
+nav ul, footer ul { 
+    font-size: 1em;
+    font-family: 'Helvetica', 'Arial';
+    padding: 0px; 
+    list-style: none; 
+    font-weight: bold; 
+}
+
+nav ul li, footer ul li { 
+    display: inline;
+    margin-right: 20px;
+}
 
 nav { font-size: 1.8em; color: #6562a8 }
 
-footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+footer { 
+    border-top: 1px solid #d5d5d5; 
+    font-size: .8em;
+    text-align: right;
+}
 
 
 @keyframes fadein {
