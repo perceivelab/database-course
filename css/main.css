@@ -10,7 +10,7 @@ a:hover { text-decoration: underline; }
 
 img {
     height: auto;
-    max-width: 70%;
+    width: 70%;
 }
 
 table {
@@ -61,10 +61,23 @@ h4 { font-size: 1.9rem; }
     img {
         width: 100%;
     }
+    
+    body {
+        font-size: 14px;
+    }
+    
+    table {
+        display: block;
+    }
+    
+    nav ul, footer ul { 
+        font-size: .8em;
+    }
 }
 
 #tag img{
     height: 32px;
+    width: auto;
 }
 
 nav ul, footer ul { 
