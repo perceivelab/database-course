@@ -4,7 +4,7 @@ body { margin: 60px auto; width: 70%; }
 
 a { 
     text-decoration: none;
-    color: darkorange;
+    color: #FF4D00;
 }
 a:hover { text-decoration: underline; }
 
@@ -21,7 +21,7 @@ table {
     font: normal 1.5em Helvetica Arial, sans-serif;
 }
 table thead th {
-    border-bottom: solid 2px darkorange;
+    border-bottom: solid 2px #FF4D00;
     color: #3c3c3c;
     padding: 10px;
     text-align: left;
@@ -97,7 +97,9 @@ footer {
     }
     
     body {
+        width: 100%;
         font-size: 14px;
+        margin: 30px;
     }
     
     table {
