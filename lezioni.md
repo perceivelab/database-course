@@ -5,7 +5,6 @@ layout: page
 # LEZIONI
 Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di web programming 2021.
 
-<div marldown="block">
 | Lezioni    | Argomento                                                       | Data            | Slides                          | Codice      |
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
 | Introduzione  | Introduzione Corso                                           | 09 Marzo 2021   | [Link](https://drive.google.com/file/d/1IJ0YSVa5bRcM_ZrCnDXTHvEy0EeDsWkX/view?usp=sharing)                                         |             |
@@ -30,5 +29,4 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 19 | ReactJS + NodeJS                                                | 11 Maggio 2021  | [Link][404]                     |             |
 | Lezione 20 | ReactJS + NodeJS                                                | 13 Maggio 2021  | [Link][404]                     |             |
 
-</div>
 [404]: /web-programming-course/fallback
