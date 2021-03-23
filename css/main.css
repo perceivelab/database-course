@@ -104,6 +104,7 @@ footer {
     
     table {
         display: block;
+        font-size: 1em;
     }
     
     nav ul, footer ul { 
