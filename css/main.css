@@ -97,9 +97,12 @@ footer {
     }
     
     body {
-        width: 100%;
+        width: 80%;
         font-size: 14px;
-        margin: 30px;
+        flex-direction: column;
+        align-items: center;
+        margin: 10% auto auto 10%;
+        display: flex;
     }
     
     table {
