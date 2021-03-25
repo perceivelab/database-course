@@ -14,7 +14,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 4  | Position/mobile                                                 | 18 Marzo 2021   | [Link](https://drive.google.com/file/d/1TWBpWSPqdgB9OeKdvcK83iBRtIVC0wsz/view?usp=sharing)                     |             |   
 | Lezione 5  | Esercitazione per MHW1                                          | 23 Marzo 2021   | [Link](https://drive.google.com/file/d/16AqVbjv1tKd5GmFcBM0RH-LljefWiuW9/view?usp=sharing)                     | [Link](https://drive.google.com/file/d/14zZIf_mUj6g0gKJ4JT9cKzt2pLQ4b13m/view?usp=sharing)            |
 |            | Guida Utilizzo GitHub                                           | 23 Marzo 2021   | [Link](https://drive.google.com/file/d/1gDnhBQoDi3uQvRwM-B4ClwBO_qhgRIfo/view?usp=sharing)                     |             |
-| Lezione 6  | Intro JS + DOM                                                  | 25 Marzo 2021   | [Link][404]                     |             |
+| Lezione 6  | Intro JS + DOM                                                  | 25 Marzo 2021   | [Link](https://drive.google.com/file/d/1pLs19EJxfBc2RpwrKPJAQbMPZCETdn5-/view?usp=sharing)                     |[Link](https://drive.google.com/file/d/1PjFWtA1Y5p2ihhhh4NTTAiFWyzODbM7z/view?usp=sharing)             |
 | Lezione 7  | DOM +  JS EVENTS                                                | 30 Marzo 2021   | [Link][404]                     |             |
 | Lezione 8  | Esercitazione per MHW2 + Check MHW1                         | 01 Aprile 2021  | [Link][404]                     |             |
 | Lezione 9  | JS Modal +  Fetch                                               | 06 Aprile 2021  | [Link][404]                     |             |
