@@ -17,8 +17,9 @@ layout: default
 
 # AVVISI
 
+- *[01 Apr 2021]* - Il MHW2 2 è stato assegnato con data di consegna 12 Aprile 2021.
 - *[24 Mar 2021]* - Nella sezione Homework è stato aggiunto il link al template della presentazione del MHW1 e il link al form in cui specificare l'username GitHub
-- _[18 Mar 2021]_  -  Il MHW1 è stato assegnato con data di consegna 27 Marzo 2021. 
+- _[18 Mar 2021]_ -  Il MHW1 è stato assegnato con data di consegna 27 Marzo 2021. 
 
 # ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
 {: #tag}
@@ -31,10 +32,10 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | Homework | Argomento          | Assegnazione    | Consegna          |
 | :-------:| ------------------ | --------------- | -------          |
 | MHW1     | HTML + CSS         | Marzo 18, 2021  | Marzo 27, 2021    |
-| MHW2     | Javascript         | Marzo 30, 2021  | Aprile 10, 2021   |
-| MHW3     | REST API           | Aprile 08, 2021 | Aprile 17, 2021   |
-| HW1      | Sito Completo      | Aprile 22, 2021 | Maggio 08, 2021   |
-| HW2      | Porting HW1 in MVC | Maggio 13, 2021 | 05 Giugno 2021    |
+| MHW2     | Javascript         | Aprile 01, 2021  | Aprile 12, 2021   |
+| MHW3     | REST API           | Aprile 13, 2021 | Aprile 24, 2021   |
+| HW1      | Sito Completo      | Aprile 27, 2021 | Maggio 15, 2021   |
+| HW2      | Porting HW1 in MVC | Maggio 17, 2021 | 05-10 Giugno 2021    |
 
 # VALUTAZIONE
 
