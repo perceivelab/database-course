@@ -10,7 +10,8 @@ La consegna del MHW dovrà essere effettuata sul vostro account GitHub, in un re
 
 L'aspetto generale della pagina da realizzare è mostrato nella figura sottostante.
 
-![](https://perceivelab.github.io/web-programming-course/imgs/mhw2_overview.png =450x)
+<image src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_overview.png" width="450">
+
 In pratica, dovrete estendere la struttura della pagina sviluppata nel mini-homework 1 (all'interno della quale avete inserito una sezione principale con "blocchi di contenuto") aggiungendo i seguenti componenti:
 - una sezione di "preferiti", all'interno della quale l'utente può inserire un sottinsieme dei contenuti visualizzati;
 - una barra di ricerca, tramite la quale l'utente può filtrare i contenuti, mostrando solo quelli che contengono una certa stringa.
@@ -49,7 +50,7 @@ Queste due possibili modalità per rappresentare i contenuti sono solo degli ese
 
 In questo caso abbiamo definito un insieme di informazioni per ogni elemento (titolo, immagine, descrizione) che avesse senso per questo esempio. Nella vostra specifica applicazione, potrebbe essere opportuno aggiungerne di altri. **Come specifica, ogni blocco di contenuto deve contenere almeno un'immagine e una descrizione testuale.** La descrizione non deve essere inizialmente visibile, ma può essere mostrata cliccando su una sezione "dettagli" all'interno del blocco stesso, come illustrato nelle immagini seguenti:
 
-![](https://perceivelab.github.io/web-programming-course/imgs/mhw2_dettagli_off.png =200x)![](https://perceivelab.github.io/web-programming-course/imgs/mhw2_dettagli_on.png =200x)
+<img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_dettagli_off.png" width="200"><img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_dettagli_on.png" width="200">
 
 Analogamente, deve essere possibile nascondere la descrizione dopo averla visualizzata.
 
@@ -59,12 +60,13 @@ Al caricamento della pagina, dovrete leggere i dati da `contents.js` e **inserir
 
 In questa fase, dovrete quindi visualizzare una schermata strutturalmente analoga alla seguente:
 
-![](https://perceivelab.github.io/web-programming-course/imgs/mhw2_caricamento_contenuti.png =450x)
+<img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_caricamento_contenuti.png" width="450">
+
 ### 3. Selezione dei preferiti
 
 Predisponete una sezione (inizialmente nascosta) al di sopra dei contenuti. Cliccando sul pulsante per l'inserimento di un elemento tra i preferiti, dovrete aggiungere il blocco selezionato tra i preferiti, come mostrato sotto:
 
-![](https://perceivelab.github.io/web-programming-course/imgs/mhw2_preferiti.png =450x)
+<img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_preferiti.png" width="450">
 
 Scegliete voi quale sottinsieme di informazioni mostrare nel blocco tra i preferiti, rispetto al blocco originale. **Come minimo, dovete visualizzare l'immagine del blocco.**
 
@@ -73,7 +75,9 @@ Ogni elemento aggiunto tra i preferiti deve anche contenere un pulsante per rimu
 ### 4. Ricerca
 
 Come mostrato nell'overview, la sezione principale dei contenuti (non quella dei preferiti) deve contenere una barra di ricerca (potete usare un elemento `<input type='text'>`). L'inserimento di testo in questa barra permette di *filtrare* la lista di contenuti, selezionando solo quelli che contengono il testo cercato e nascondendo gli altri, come nell'esempio sottostante:
-![](https://perceivelab.github.io/web-programming-course/imgs/mhw2_ricerca.png =450x)
+
+<img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_ricerca.png" width="450">
+
 Scegliete voi, in funzione del vostro caso d'uso, all'interno di quali informazioni volete effettuare la ricerca del testo (nel nostro esempio, potremmo effettuare la ricerca nel testo del titolo o nel testo della descrizione).
 
 L'aggiornamento del filtro va effettuato **ad ogni lettera digitata** (usate l'evento [keyup](https://developer.mozilla.org/en-US/docs/Web/API/Document/keyup_event)). In altre parole, ad ogni lettera che digitate (o cancellate) nella barra di ricerca, si aggiorna la lista di contenuti per mostrare **solo** quelli che contengono il testo digitato fino a quel momento. Ovviamente, quando svuotate la barra di ricerca, tutti gli elementi originali devono essere visibili.
