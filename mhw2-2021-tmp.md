@@ -10,7 +10,7 @@ La consegna del MHW dovrà essere effettuata sul vostro account GitHub, in un re
 
 L'aspetto generale della pagina da realizzare è mostrato nella figura sottostante.
 
-<image src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_overview.png" width="450">
+<img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_overview.png" width="450">
 
 In pratica, dovrete estendere la struttura della pagina sviluppata nel mini-homework 1 (all'interno della quale avete inserito una sezione principale con "blocchi di contenuto") aggiungendo i seguenti componenti:
 - una sezione di "preferiti", all'interno della quale l'utente può inserire un sottinsieme dei contenuti visualizzati;
