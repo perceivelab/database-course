@@ -11,9 +11,13 @@ a {
 }
 a:hover { text-decoration: underline; }
 
-img {
-    height: auto;
-    width: 70%;
+#logo {
+    display: flex;
+    justify-content: center;
+}
+
+#logo a {
+    width: 80%;
 }
 
 table {
