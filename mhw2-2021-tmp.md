@@ -48,7 +48,7 @@ const contenuti = [
 ```
 Queste due possibili modalità per rappresentare i contenuti sono solo degli esempi. Esistono altri modi per descrivere i contenuti della pagina: scegliete quello che preferite.
 
-In questo caso abbiamo definito un insieme di informazioni per ogni elemento (titolo, immagine, descrizione) che avesse senso per questo esempio. Nella vostra specifica applicazione, potrebbe essere opportuno aggiungerne di altri. **Come specifica, ogni blocco di contenuto deve contenere almeno un'immagine e una descrizione testuale.** La descrizione non deve essere inizialmente visibile, ma può essere mostrata cliccando su una sezione "dettagli" all'interno del blocco stesso, come illustrato nelle immagini seguenti:
+In questo caso abbiamo definito un insieme di informazioni per ogni elemento (titolo, immagine, descrizione) che avesse senso per questo esempio. Nella vostra specifica applicazione, potrebbe essere opportuno aggiungerne di altri. **Come specifica, ogni blocco di contenuto deve contenere almeno un titolo, un'immagine e una descrizione testuale.** La descrizione non deve essere inizialmente visibile, ma può essere mostrata cliccando su una sezione "dettagli" all'interno del blocco stesso, come illustrato nelle immagini seguenti:
 
 <img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_dettagli_off.png" width="200"><img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_dettagli_on.png" width="200">
 
@@ -68,7 +68,7 @@ Predisponete una sezione (inizialmente nascosta) al di sopra dei contenuti. Clic
 
 <img src="https://perceivelab.github.io/web-programming-course/imgs/mhw2_preferiti.png" width="450">
 
-Scegliete voi quale sottinsieme di informazioni mostrare nel blocco tra i preferiti, rispetto al blocco originale. **Come minimo, dovete visualizzare l'immagine del blocco.**
+Scegliete voi quale sottinsieme di informazioni mostrare nel blocco tra i preferiti, rispetto al blocco originale. **Come minimo, dovete visualizzare il titolo e l'immagine del blocco.**
 
 Ogni elemento aggiunto tra i preferiti deve anche contenere un pulsante per rimuoverlo. Se l'insieme dei preferiti è vuoto, la sezione non deve essere mostrata.
 
