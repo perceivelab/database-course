@@ -17,7 +17,7 @@ layout: default
 
 # AVVISI
 
-- *[13 Apr 2021]* - Il MHW3 è stato assegnato con data di consegna 24 Aprile 2021.
+- *[13 Apr 2021]* - Il MHW3 è stato assegnato con data di consegna 26 Aprile 2021.
 - *[01 Apr 2021]* - Il MHW2 è stato assegnato con data di consegna 12 Aprile 2021.
 - *[24 Mar 2021]* - Nella sezione Homework è stato aggiunto il link al template della presentazione del MHW1 e il link al form in cui specificare l'username GitHub
 - _[18 Mar 2021]_ - Il MHW1 è stato assegnato con data di consegna 27 Marzo 2021. 
