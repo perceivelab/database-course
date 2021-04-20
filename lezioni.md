@@ -23,7 +23,6 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 11 | Esercitazione per REST API + Check MHW2                     | 13 Aprile 2021  |                      |    [Link](https://drive.google.com/file/d/1Ax8FH7HD4MOgoLIPSimrmnRnzs1c8cWS/view?usp=sharing)         |
 | Lezione 12 | PHP - Linguaggio e classi                                       | 15 Aprile 2021  | [Link](https://drive.google.com/file/d/19nsemKs2DURwXaTauLqLYQDw7zunwNwl/view?usp=sharing)                     |             |
 |            | XAMPP                                                           | 15 Aprile 2021  | [Link](https://drive.google.com/file/d/1vQ20kaJpF-SH3yqzScyyiBW3exzLIBaR/view?usp=sharing)                     |             |
-
 | Lezione 13 | PHP - Form, sessioni e database, - AJAX - REST PHP              | 20 Aprile 2021  | [Link](https://drive.google.com/file/d/1mN3pmgRFRiDfyvgIcUHiJsjJkgcaronG/view?usp=sharing)                     |             |
 | Lezione 14 | Esercitazione per integrazione PHP e REST API  + Check MHW3 | 22 Aprile 2021  | [Link][404]                     |             |
 | Lezione 15 | Supporto svolgimento HW1                                        | 27 Aprile 2021  | [Link][404]                     |             |
