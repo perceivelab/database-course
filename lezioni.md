@@ -25,11 +25,11 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 |            | XAMPP                                                           | 15 Aprile 2021  | [Link](https://drive.google.com/file/d/1vQ20kaJpF-SH3yqzScyyiBW3exzLIBaR/view?usp=sharing)                     |             |
 | Lezione 13 | PHP - Form, sessioni e database, - AJAX - REST PHP              | 20 Aprile 2021  | [Link](https://drive.google.com/file/d/1mN3pmgRFRiDfyvgIcUHiJsjJkgcaronG/view?usp=sharing)                     |             |
 | Lezione 14 | Esercitazione per integrazione PHP e REST API  + Check MHW3 | 22 Aprile 2021  | [Link][404]                     |             |
-| Lezione 15 | Supporto svolgimento HW1                                        | 27 Aprile 2021  | [Link][404]                     |             |
-| Lezione 16 | MVC/ORM/Laravel                                                 | 29 Aprile 2021  | [Link][404]                     |             |
-| Lezione 17 | Laravel avanzato                                                | 04 Maggio 2021  | [Link][404]                     |             |
-| Lezione 18 | NoSQL Databases (Redis e MongoDB)                               | 06 Maggio 2021  | [Link][404]                     |             |
-| Lezione 19 | ReactJS + NodeJS                                                | 11 Maggio 2021  | [Link][404]                     |             |
-| Lezione 20 | ReactJS + NodeJS                                                | 13 Maggio 2021  | [Link][404]                     |             |
+| Lezione 15 | Supporto svolgimento HW1                                        | 04 Maggio 2021   | [Link][404]                     |             |
+| Lezione 16 | MVC/ORM/Laravel                                                 | 06 Maggio 2021  | [Link][404]                     |             |
+| Lezione 17 | Laravel avanzato                                                | 11 Maggio 2021  | [Link][404]                     |             |
+| Lezione 18 | NoSQL Databases (Redis e MongoDB)                               | 13 Maggio 2021  | [Link][404]                     |             |
+| Lezione 19 | ReactJS + NodeJS                                                | 18 Maggio 2021  | [Link][404]                     |             |
+| Lezione 20 | ReactJS + NodeJS                                                | 20 Maggio 2021  | [Link][404]                     |             |
 
 [404]: /web-programming-course/fallback
