@@ -16,7 +16,8 @@ layout: default
 
 
 # AVVISI
-
+- *[29 Apr 2021]* - L'HMW1  è stato assegnato con data di consegna 15 Maggio 2021.
+- *[23 Apr 2021]* - Le lezioni sono sospese dal 26/04/2021 al 04/05/2021 (incluso) a seguito della pausa didattica deliberata dal CdS.
 - *[13 Apr 2021]* - Il MHW3 è stato assegnato con data di consegna 26 Aprile 2021.
 - *[01 Apr 2021]* - Il MHW2 è stato assegnato con data di consegna 12 Aprile 2021.
 - *[24 Mar 2021]* - Nella sezione Homework è stato aggiunto il link al template della presentazione del MHW1 e il link al form in cui specificare l'username GitHub
