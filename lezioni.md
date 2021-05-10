@@ -24,12 +24,13 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 12 | PHP - Linguaggio e classi                                       | 15 Aprile 2021  | [Link](https://drive.google.com/file/d/19nsemKs2DURwXaTauLqLYQDw7zunwNwl/view?usp=sharing)                     |             |
 |            | XAMPP                                                           | 15 Aprile 2021  | [Link](https://drive.google.com/file/d/1vQ20kaJpF-SH3yqzScyyiBW3exzLIBaR/view?usp=sharing)                     |             |
 | Lezione 13 | PHP - Form, sessioni e database, - AJAX - REST PHP              | 20 Aprile 2021  | [Link](https://drive.google.com/file/d/1mN3pmgRFRiDfyvgIcUHiJsjJkgcaronG/view?usp=sharing)                     |             |
-| Lezione 14 | Esercitazione per integrazione PHP e REST API  + Check MHW3 | 22 Aprile 2021  |                      | [Link](https://drive.google.com/file/d/1Hr9Ck9aRdMUMqoP3iqtYYe5uYyymiMsu/view?usp=sharing)            |
-| Lezione 15 | Supporto svolgimento HW1                                        | 04 Maggio 2021   | [Link][404]                     |             |
-| Lezione 16 | MVC/ORM/Laravel                                                 | 06 Maggio 2021  | [Link][404]                     |             |
-| Lezione 17 | Laravel avanzato                                                | 11 Maggio 2021  | [Link][404]                     |             |
-| Lezione 18 | NoSQL Databases (Redis e MongoDB)                               | 13 Maggio 2021  | [Link][404]                     |             |
-| Lezione 19 | ReactJS + NodeJS                                                | 18 Maggio 2021  | [Link][404]                     |             |
-| Lezione 20 | ReactJS + NodeJS                                                | 20 Maggio 2021  | [Link][404]                     |             |
+| Lezione 14 | Esercitazione per integrazione PHP e REST API  + Check MHW3 | 06 Maggio 2021  |                      | [Link](https://drive.google.com/file/d/1Hr9Ck9aRdMUMqoP3iqtYYe5uYyymiMsu/view?usp=sharing)            |
+| Lezione 15 | Supporto svolgimento HW1                                        | 11-13 Maggio 2021   | [Link](https://forms.gle/bZiz1EKPypTwcGRs7)                     |             |
+| Lezione 16 | MVC/ORM/Laravel                                                 | 18 Maggio 2021  | [Link][404]                     |             |
+| Lezione 17 | Laravel avanzato                                                | 20 Maggio 2021  | [Link][404]                     |             |
+| Lezione 18 | Supporto Svolgimento HW2                                        | 21-27 Maggio 2021  | [Link][404]                     |             |
+| Lezione 19 | NoSQL Databases (Redis e MongoDB)                               | 27 Maggio 2021  | [Link][404]                     |             |
+| Lezione 20 | Supporto Svolgimento HW2                                        | 27 Maggio - 3 Giugno 2021  | [Link][404]                     |             |
+| Lezione 21 | ReactJS + NodeJS                                                | 3 Giugno 2021  | [Link][404]                     |             |
 
 [404]: /web-programming-course/fallback
