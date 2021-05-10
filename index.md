@@ -16,6 +16,10 @@ layout: default
 
 
 # AVVISI
+- *[10 Mag 2021]* - Le date delle lezioni e degli homework sono state aggiorate
+- *[10 Mag 2021]* - Questa settimana sarà dedicata interamente al supporto per lo svolgimento dell'HW1 durante le ore di lezione. È necessaria la prenotazione tramite il seguente [form](https://forms.gle/bZiz1EKPypTwcGRs7)
+- *[10 Mag 2021]* - Le date delle lezioni e degli homework sono state aggiorate
+- *[10 Mag 2021]* - La scadenza dell'HW1 è stata posticipata al 17 Maggio 2021, 23:59.
 - *[29 Apr 2021]* - L'HMW1  è stato assegnato con data di consegna 15 Maggio 2021.
 - *[23 Apr 2021]* - Le lezioni sono sospese dal 26/04/2021 al 04/05/2021 (incluso) a seguito della pausa didattica deliberata dal CdS.
 - *[13 Apr 2021]* - Il MHW3 è stato assegnato con data di consegna 26 Aprile 2021.
@@ -36,8 +40,8 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | MHW1     | HTML + CSS         | Marzo 18, 2021  | Marzo 27, 2021    |
 | MHW2     | Javascript         | Aprile 01, 2021  | Aprile 12, 2021   |
 | MHW3     | REST API           | Aprile 13, 2021 | Aprile 24, 2021   |
-| HW1      | Sito Completo      | Aprile 27, 2021 | Maggio 15, 2021   |
-| HW2      | Porting HW1 in MVC | Maggio 17, 2021 | 05-10 Giugno 2021    |
+| HW1      | Sito Completo      | Aprile 27, 2021 | Maggio 17, 2021   |
+| HW2      | Porting HW1 in MVC | Maggio 25, 2021 | 10-15 Giugno 2021    |
 
 # VALUTAZIONE
 
