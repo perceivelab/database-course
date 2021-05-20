@@ -26,8 +26,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 13 | PHP - Form, sessioni e database, - AJAX - REST PHP              | 20 Aprile 2021  | [Link](https://drive.google.com/file/d/1mN3pmgRFRiDfyvgIcUHiJsjJkgcaronG/view?usp=sharing)                     |             |
 | Lezione 14 | Esercitazione per integrazione PHP e REST API  + Check MHW3 | 06 Maggio 2021  |                      | [Link](https://drive.google.com/file/d/1Hr9Ck9aRdMUMqoP3iqtYYe5uYyymiMsu/view?usp=sharing)            |
 | Lezione 15 | Supporto svolgimento HW1                                        | 11-13 Maggio 2021   | [Link](https://forms.gle/bZiz1EKPypTwcGRs7)                     |             |
-| Lezione 16 | MVC/ORM/Laravel                                                 | 18 Maggio 2021  | [Link][404]                     |             |
-| Lezione 17 | Laravel avanzato                                                | 20 Maggio 2021  | [Link][404]                     |             |
+| Lezione 16 | MVC/ORM/Laravel                                                 | 18 Maggio 2021  | [Link](https://drive.google.com/file/d/1-oCsOK3y_2bQ-YCzMsQsKItv-XCEWWAL/view?usp=sharing)                     |             |
+| Lezione 17 | Laravel avanzato                                                | 20 Maggio 2021  |                      | [Link(https://drive.google.com/file/d/1UIhT9Td19KFKClfJb5YXKlD3nc-cg-Cx/view?usp=sharing)             |
 | Lezione 18 | Supporto Svolgimento HW2                                        | 21-27 Maggio 2021  | [Link][404]                     |             |
 | Lezione 19 | NoSQL Databases (Redis e MongoDB)                               | 27 Maggio 2021  | [Link][404]                     |             |
 | Lezione 20 | Supporto Svolgimento HW2                                        | 27 Maggio - 3 Giugno 2021  | [Link][404]                     |             |
