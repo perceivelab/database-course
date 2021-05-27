@@ -29,8 +29,9 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 16 | MVC/ORM/Laravel                                                 | 18 Maggio 2021  | [Link](https://drive.google.com/file/d/1-oCsOK3y_2bQ-YCzMsQsKItv-XCEWWAL/view?usp=sharing)                     |             |
 | Lezione 17 | Laravel avanzato                                                | 20 Maggio 2021  |                      | [Link](https://drive.google.com/file/d/1UIhT9Td19KFKClfJb5YXKlD3nc-cg-Cx/view?usp=sharing)             |
 | Lezione 18 | Supporto Svolgimento HW2                                        | 21-27 Maggio 2021  | [Link][404]                     |             |
-| Lezione 19 | NoSQL Databases (Redis e MongoDB)                               | 27 Maggio 2021  | [Link][404]                     |             |
-| Lezione 20 | Supporto Svolgimento HW2                                        | 27 Maggio - 3 Giugno 2021  | [Link][404]                     |             |
-| Lezione 21 | ReactJS + NodeJS                                                | 3 Giugno 2021  | [Link][404]                     |             |
+| Lezione 19 | Esercitazione Laravel                                           | 27 Maggio 2021  |                      | [Link](https://drive.google.com/file/d/1MHmtALJD1F-4aPGNsR3eLf6lf52QiGr4/view?usp=sharing)             |
+| Lezione 20 | NoSQL Databases (Redis e MongoDB)                               | 27 Maggio 2021  | [Link][404]                     |             |
+| Lezione 21 | Supporto Svolgimento HW2                                        | 27 Maggio - 3 Giugno 2021  | [Link][404]                     |             |
+| Lezione 22 | ReactJS + NodeJS                                                | 3 Giugno 2021  | [Link][404]                     |             |
 
 [404]: /web-programming-course/fallback
