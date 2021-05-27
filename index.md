@@ -16,6 +16,7 @@ layout: default
 
 
 # AVVISI
+- *[27 Mag 2021]* - Il codice dell'esercitazione è stato pubblicato
 - *[10 Mag 2021]* - Le date delle lezioni e degli homework sono state aggiorate
 - *[10 Mag 2021]* - Questa settimana sarà dedicata interamente al supporto per lo svolgimento dell'HW1 durante le ore di lezione. È necessaria la prenotazione tramite il seguente [form](https://forms.gle/bZiz1EKPypTwcGRs7)
 - *[10 Mag 2021]* - Le date delle lezioni e degli homework sono state aggiorate
