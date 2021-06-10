@@ -41,9 +41,10 @@ studenti** per le date degli appelli (vedi sopra), e il docente procederà con l
 
 Il voto finale, come indicato nel syllabus, sarà dato dalla media di quello del modulo di
 database e di quello del modulo di web programming e sarà comunicato al termine del colloquio di web programming.
+*Per gli studenti di A-L, il voto sarà comunicato in un secondo momento*
 
 ## Discussione di MHW e HW all'esame
-Durante l'esame, saranno esaminati uno o più tra i MHW e HW caricati su GutHub (la visualizzazione avverrà accedendo
+Durante l'esame, saranno esaminati uno o più tra i MHW e HW caricati su GitHub (la visualizzazione avverrà accedendo
 direttamente al server), e sarà chiesto agli studenti di discuterli.
 Verrà anche esaminato e discusso il codice utilizzato nella realizzazione degli elaborati.
 N.B.: Il codice verrà visualizzato **dal vostro computer in condivisione dello schermo**.
@@ -56,3 +57,4 @@ disponibili al seguente [link](https://drive.google.com/file/d/108HxBicJ0u5Dils_
 
 La modalità di discussione sarà analoga a quanto descritto sopra. Le date per la presentazione dei progetti unici sono
 esclusivamente quelle degli appelli. **In questo caso è necessaria la prenotazione attraverso il portale studenti.**
+*Gli studenti di A-L dovranno prenotarsi tramite STUDIUM
