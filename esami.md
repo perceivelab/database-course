@@ -28,8 +28,8 @@ La prenotazione deve essere fatta via **STUDIUM -> prenotazioni**.
 E’ necessario che gli studenti carichino l’HW2 su GitHub **almeno tre giorni prima** della data scelta per la discussione.
 
 Non ci saranno prolungamenti a settembre per la discussione degli homework. In quel caso bisogna presentarsi **solo
-durante le dati degli appelli con il sito completo** (vedere sotto). Gli studenti che non supereranno la discussione degli
-homework dovranno rifare tutto il modulo di web programming (sito completo) e presentarsi univocamente durante le
+durante le date degli appelli con il sito completo** (vedere sotto). Gli studenti che non supereranno la discussione degli
+homework dovranno rifare tutto il modulo di web programming (sito completo) e presentarsi unicamente durante le
 date degli appelli.
 
 Si ricorda che la discussione degli homework si potrà fare solo se gli homework sono stati consegnati nelle tempistiche
@@ -40,7 +40,7 @@ studenti** per le date degli appelli (vedi sopra), e il docente procederà con l
 (database e web programming). 
 
 Il voto finale, come indicato nel syllabus, sarà dato dalla media di quello del modulo di
-database e di quello del modulo di web programming e sarà comunicato al termine del colloquio di web programming.
+database e di quello del modulo di web programming e sarà comunicato o al termine del colloquio di web programming.
 
 *\*Per gli studenti di A-L, il voto sarà comunicato in un secondo momento*
 
@@ -60,3 +60,10 @@ La modalità di discussione sarà analoga a quanto descritto sopra. Le date per 
 esclusivamente quelle degli appelli. **In questo caso è necessaria la prenotazione attraverso il portale studenti.**
 
 *\*Gli studenti di A-L dovranno prenotarsi tramite STUDIUM*
+
+## Ulteriori chiarimenti
+
+I moduli di database e web programming possono essere considerati separati, per cui è possibile fare prima l'esame del modulo di web programming (discussione o degli homework o dell'intero progetto) e successivamente quello di database (si può fare solo nelle date ufficiali degli appelli) o viceversa. 
+
+
+
