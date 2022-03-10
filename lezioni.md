@@ -7,7 +7,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 
 | Lezioni    | Argomento                                                       | Data            | Slides                          | Codice      |
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
-| Introduzione  | Introduzione Corso                                           | 09 Marzo 2021   | [Link](https://drive.google.com/file/d/1IJ0YSVa5bRcM_ZrCnDXTHvEy0EeDsWkX/view?usp=sharing)                                         |             |
+| Introduzione  | Introduzione Corso                                           | 09 Marzo 2021   | [Link](https://drive.google.com/file/d/12EHWP8JP0bh37-KipYWKobrrLyXBfPZ2/view?usp=sharing)                                         |             |
 | Lezione 1  | HTML + CSS                                                      | 09 Marzo 2021   | [Link](https://drive.google.com/file/d/1_90rl-51YiViR6deMLtBrlO4Zvf2BSew/view?usp=sharing)                                         |             |
 <!---
 | Lezione 2  | CSS                                                             | 11 Marzo 2021   | [Link](https://drive.google.com/file/d/180nPa4GNTvo0qR_iqiU1TSwAbB_8D1sM/view?usp=sharing)    |             |
