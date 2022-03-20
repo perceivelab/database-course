@@ -10,5 +10,6 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Introduzione  | Introduzione Corso                                           | 09 Marzo 2022   | [Link](https://drive.google.com/file/d/12EHWP8JP0bh37-KipYWKobrrLyXBfPZ2/view?usp=sharing)                                         |             |
 | Lezione 1  | HTML + CSS                                                      | 09 Marzo 2022   | [Link](https://drive.google.com/file/d/1_90rl-51YiViR6deMLtBrlO4Zvf2BSew/view?usp=sharing)                                         |             |
 |           | Guida Utilizzo GitHub                                           | 09 Marzo 2022   | [Link](https://drive.google.com/file/d/1gDnhBQoDi3uQvRwM-B4ClwBO_qhgRIfo/view?usp=sharing)                     |             |
+| Lezione 2  | CSS Box Model                                                    | 15 Marzo 2022   | [Link](https://drive.google.com/file/d/180nPa4GNTvo0qR_iqiU1TSwAbB_8D1sM/view?usp=sharing)                                         |             |
 
 [404]: /web-programming-course/fallback
