@@ -17,8 +17,8 @@ layout: default
 
 # AVVISI
 - *[07 Mar 2022]* - Le lezioni inizieranno Giovedì 10/03/2022 (secondo gli orari indicati sopra) e proseguiranno come da calendario.
-- *[25 Mar 2022]* - Si invitano gli studenti a compilare il seguente form per la consegna degli homework: (https://forms.gle/ZggUdJACy4sDSexAA).
-- *[25 Mar 2022]* - Si informano gli studenti che è disponibile la consegna (con le specifiche) del MHW1 al link: (https://perceivelab.github.io/web-programming-course/mhw1).
+- *[25 Mar 2022]* - Si invitano gli studenti a compilare il seguente form per la consegna degli homework: https://forms.gle/ZggUdJACy4sDSexAA
+- *[25 Mar 2022]* - Si informano gli studenti che è disponibile la consegna (con le specifiche) del MHW1 al link: https://perceivelab.github.io/web-programming-course/mhw1
 
 
 
