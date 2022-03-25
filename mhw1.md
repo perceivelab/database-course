@@ -20,6 +20,8 @@ La struttura della pagina è a vostra scelta, ma dovrà contenere i seguenti ele
 * una sezione di **contenuti**, che rappresenta il corpo principale della pagina. Questa sezione dovrà essere a sua volta divisa in "blocchi" di informazione (da disporre a vostro piacere utilizzando Flexbox), specifiche per il vostro progetto di sito (es., se si tratta di un quotidiano inline, ogni blocco può rappresentare una notizia; se si tratta di un'agenzia di viaggi, ogni blocco può rappresentare un volo o una prenotazione);
 * un **footer** che contiene informazioni sulla pagina (tra cui nome, cognome, matricola).
 
+[A questo link](imgs/mhw1_esempio.png) un esempio di visualizzazione della pagina completa.
+
 ### 2. Misure delle sezioni
 
 Stabilite in dettaglio la disposizione delle sezioni del sito (header, menù di navigazione, contenuti, blocchi all'interno dei contenuti, footer) e le distanze tra i diversi elementi della pagina. Illustrate il vostro progetto nella presentazione in maniera analoga a quanto vedete in questa immagine:
