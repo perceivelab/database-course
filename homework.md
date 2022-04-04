@@ -3,7 +3,7 @@ layout: page
 ---
 
 # HOMEWORK
-Questa pagina contiene linsieme degli homework assegnati durante il corso di web programming 2021 
+Questa pagina contiene l'insieme degli homework assegnati durante il corso di Web Programming 2022 
 
 | Homework | Argomento          | Assegnazione    | Scadenza          | Testo Consegna  | Template presentazione |
 | :-------:| ------------------ | --------------- | -------           | :--------:      | :------: |
