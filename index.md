@@ -16,6 +16,8 @@ layout: default
 
 
 # AVVISI
+- *[04 Apr 2022]* - La lezione di domani (05/04/2022) si terrà dalle ore 17 alle ore 20.
+- *[04 Apr 2022]* - E' stato aggiornato il link per il canale Discord.
 - *[25 Mar 2022]* - Si invitano gli studenti a compilare il seguente form per la consegna degli homework: [link](https://forms.gle/ZggUdJACy4sDSexAA)
 - *[25 Mar 2022]* - Si informano gli studenti che è disponibile la consegna (con le specifiche) del MHW1 al [link](https://perceivelab.github.io/web-programming-course/mhw1)
 - *[07 Mar 2022]* - Le lezioni inizieranno Giovedì 10/03/2022 (secondo gli orari indicati sopra) e proseguiranno come da calendario.
@@ -25,7 +27,7 @@ layout: default
 
 # ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
 {: #tag}
-Durante il corso si utilizzera', il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/B3KT5VTp).
+Durante il corso si utilizzera', il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/TjNDXYc5).
 
 
 # ROADMAP HOMEWORK
