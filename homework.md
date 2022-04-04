@@ -3,7 +3,7 @@ layout: page
 ---
 
 # HOMEWORK
-Questa pagina contiene l'insieme degli homework assegnati durante il corso di Web Programming 2022 
+Questa pagina contiene l'insieme degli homework assegnati durante il corso di Web Programming 2022. [A questo link]({{ site.baseurl }}/status) trovate lo stato di consegna di ciascun homework per ogni studente.
 
 | Homework | Argomento          | Assegnazione    | Scadenza          | Testo Consegna  | Template presentazione |
 | :-------:| ------------------ | --------------- | -------           | :--------:      | :------: |
