@@ -8,6 +8,6 @@ Questa pagina contiene l'insieme degli homework assegnati durante il corso di We
 | Homework | Argomento          | Assegnazione    | Scadenza          | Testo Consegna  | Template presentazione | Codice |
 | :-------:| ------------------ | --------------- | -------           | :--------:      | :------: |
 | MHW1     | HTML + CSS         | 24 marzo        | 2 aprile          | [Link](mhw1.md) | [Link](https://drive.google.com/file/d/1Vrcqvuvqtm7l0Ss8zXwOVtiy8S404sbp/view?usp=sharing) |
-| MHW2     | JavaScript         | 5 aprile        | 16 aprile          | [Link](web-programming-mhw2.html) | - | [Link](mhw2-starting-code.zip) |
+| MHW2     | JavaScript         | 5 aprile        | 16 aprile          | [Link](web-programming-mhw2.html) | - | [Link](mhw2_starting_code.zip) |
 
 [404]: /web-programming-course/fallback
