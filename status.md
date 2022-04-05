@@ -14,9 +14,9 @@ layout: page
 1000001075 | :heavy_check_mark: |
 1000001085 | :heavy_check_mark: |
 1000001091 | :heavy_check_mark: |
-1000001097 | :x: |
+1000001097 | :heavy_check_mark: |
 1000001109 | :heavy_check_mark: |
-1000001110 | :x: |
+1000001110 | :hourglass: |
 1000001139 | :heavy_check_mark: |
 1000001151 | :heavy_check_mark: |
 1000001154 | :heavy_check_mark: |
@@ -28,7 +28,7 @@ layout: page
 1000001212 | :heavy_check_mark: |
 1000001311 | :heavy_check_mark: |
 1000001390 | :heavy_check_mark: |
-1000001403 | :x: |
+1000001403 | :heavy_check_mark: |
 1000001433 | :heavy_check_mark: |
 1000001476 | :heavy_check_mark: |
 1000001522 | :heavy_check_mark: |
@@ -83,7 +83,7 @@ layout: page
 1000002230 | :heavy_check_mark: |
 1000002291 | :x: |
 1000002420 | :heavy_check_mark: |
-1000002423 | :x: |
+1000002423 | :hourglass: |
 1000002719 | :heavy_check_mark: |
 1000002819 | :heavy_check_mark: |
 1000002849 | :heavy_check_mark: |
@@ -97,8 +97,8 @@ layout: page
 1000003425 | :heavy_check_mark: |
 1000003497 | :heavy_check_mark: |
 1000003857 | :heavy_check_mark: |
-1000003861 | :x: |
-1000003944 | :x: |
+1000003861 | :hourglass: |
+1000003944 | :heavy_check_mark: |
 1000003997 | :heavy_check_mark: |
 1000003998 | :heavy_check_mark: |
 1000004015 | :heavy_check_mark: |
@@ -119,7 +119,7 @@ layout: page
 1000005716 | :x: |
 1000005808 | :heavy_check_mark: |
 1000005950 | :heavy_check_mark: |
-1000005960 | :x: |
+1000005960 | :hourglass: |
 1000005979 | :heavy_check_mark: |
 1000006087 | :heavy_check_mark: |
 1000006328 | :heavy_check_mark: |
@@ -128,7 +128,7 @@ layout: page
 1000007409 | :heavy_check_mark: |
 1000007581 | :heavy_check_mark: |
 1000007725 | :heavy_check_mark: |
-1000007875 | :x: |
+1000007875 | :heavy_check_mark: |
 1000007895 | :heavy_check_mark: |
 1000008032 | :heavy_check_mark: |
 1000008042 | :heavy_check_mark: |
@@ -146,7 +146,7 @@ layout: page
 100003773 | :x: |
 O46000791 | :heavy_check_mark: |
 O46000971 | :heavy_check_mark: |
-O46001257 | :x: |
+O46001257 | :heavy_check_mark: |
 O46001264 | :heavy_check_mark: |
 O46001354 | :heavy_check_mark: |
 O46001367 | :heavy_check_mark: |
