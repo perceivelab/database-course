@@ -15,7 +15,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 4  | Position, Mobile                                                    | 24 Marzo 2022   | [Link](https://drive.google.com/file/d/1TWBpWSPqdgB9OeKdvcK83iBRtIVC0wsz/view?usp=sharing)                                      |             |
 | Lezione 5  | Supporto svolgimento MHW1                                                    | 29 Marzo 2022   |                                       |   |
 | Lezione 6  | Introduzione Javascript                                                    | 31 Marzo 2022   | [Link](https://drive.google.com/file/d/1pLs19EJxfBc2RpwrKPJAQbMPZCETdn5-/view?usp=sharing)                                      |             |
-
+| Lezione 7  |  Javascript - DOM ed Eventi                                                    | 31 Marzo 2022   | [Link](https://drive.google.com/file/d/1YEgz-03P4lhvCxhnR5a4rCZWhxTbXcMr/view?usp=sharing)                                      |             |
 
 
 
