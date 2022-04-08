@@ -16,6 +16,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 5  | Supporto svolgimento MHW1                                                    | 29 Marzo 2022   |                                       |   |
 | Lezione 6  | Introduzione Javascript                                                    | 31 Marzo 2022   | [Link](https://drive.google.com/file/d/1pLs19EJxfBc2RpwrKPJAQbMPZCETdn5-/view?usp=sharing)                                      |             |
 | Lezione 7  |  Javascript - DOM ed Eventi                                                    | 05 Aprile 2022   | [Link](https://drive.google.com/file/d/1YEgz-03P4lhvCxhnR5a4rCZWhxTbXcMr/view?usp=sharing)                                      |             |
+| Lezione 8  |  Javascript - Avanzato                                                | 07 Aprile 2022   | [Link](https://drive.google.com/file/d/1GUM3-M2az8ihR8pPxSAdOxb5s4vh4hNO/view?usp=sharing)                                      |             |
 
 
 
