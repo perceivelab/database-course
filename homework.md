@@ -9,5 +9,6 @@ Questa pagina contiene l'insieme degli homework assegnati durante il corso di We
 | :-------:| ------------------ | --------------- | -------           | :--------:      | :------: |
 | MHW1     | HTML + CSS         | 24 marzo        | 2 aprile          | [Link](mhw1.md) | [Link](https://drive.google.com/file/d/1Vrcqvuvqtm7l0Ss8zXwOVtiy8S404sbp/view?usp=sharing) |
 | MHW2     | JavaScript         | 5 aprile        | 16 aprile          | [Link](web-programming-mhw2.html) | - | [Link](mhw2_starting_code.zip) |
+| MHW3     | REST APU           | 14 aprile       | 30 aprile          | [Link](mhw3.md) | A breve |
 
 [404]: /web-programming-course/fallback
