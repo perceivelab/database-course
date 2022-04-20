@@ -36,8 +36,8 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | Homework | Argomento          | Assegnazione    | Consegna          |
 | :-------:| ------------------ | --------------- | -------          |
 | MHW1     | HTML + CSS         | Marzo 24, 2022  | Aprile 02, 2022    |
-| MHW2     | Javascript         | Aprile 05, 2022  | Aprile 16, 2022   |
-| MHW3     | REST API           | Aprile 14, 2022 | Aprile 23, 2022   |
+| MHW2     | Javascript         | Aprile 05, 2022 | Aprile 16, 2022   |
+| MHW3     | REST API           | Aprile 14, 2022 | Aprile 30, 2022   |
 | HW1      | Sito Completo      | Maggio 04, 2022 | Maggio 21, 2022   |
 | HW2      | Porting HW1 in MVC | Maggio 26, 2022 | 10-18 Giugno 2022    |
 
