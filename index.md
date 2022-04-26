@@ -45,7 +45,7 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 - Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
 
-  - Sviluppo di un'applicazione web secondo le seguenti [specifiche][404]
+  - Sviluppo di un'applicazione web secondo le seguenti [specifiche](https://drive.google.com/file/d/108HxBicJ0u5Dils_82hDVs94bTGHVvOI/view?usp=sharing)
 
 - Studenti che frequentano il corso:
 
