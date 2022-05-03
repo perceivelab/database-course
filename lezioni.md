@@ -20,6 +20,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 9  |  Javascript - Fetch                                                | 09 Aprile 2022   | [Link](https://drive.google.com/file/d/1Wu2HLKb4ffzrF5Wj8fcD-iFx1dZ83SQk/view?usp=sharing)                                      |             |
 | Lezione 10  |  REST API                                                | 14 Aprile 2022   | [Link](https://drive.google.com/file/d/1WlqKG1tRm-XBAiWfuhP5-jH0EV9iNCoA/view?usp=sharing)                                      |             |
 | Lezione 11  |  Esercitazione REST API                                                | 19 Aprile 2022   |                      |    [Link](https://studentiunict.sharepoint.com/:u:/s/WebProgramming2022-Esercitazione/EfKoTppb5yhPiq5bhOpxhQEBVo1qXNyjhOrp3Wbvgmew0w?e=jEVGPg)                          |
+| Lezione 12  |  Introduzione PHP                                                | 03 Maggio  2022   | [Link](https://drive.google.com/file/d/19nsemKs2DURwXaTauLqLYQDw7zunwNwl/view?usp=sharing)                                      |             |
 
 
 
