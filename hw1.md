@@ -18,9 +18,6 @@ Dal lato client, le minime validazioni richieste sono: username già in uso, pas
 
 - Il sito deve prevedere la possibilità di ricercare contenuti tramite API REST oltre che inserire nel database alcuni dei contenuti scelti dall'utente.
 
-- Il sito deve implementare le operazioni previste (non necessariamente tutte, ma quelle significative) 
-durante la progettazione del database.
-
 - **In generale, sarà oggetto di valutazione l'uso di richieste asincrone tramite JavaScript al posto di ricaricamenti della pagina.**
 
 ### Modalità di consegna
