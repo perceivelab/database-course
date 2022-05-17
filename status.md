@@ -6,8 +6,8 @@ layout: page
 
 ### Stato di consegna degli homework
 
-| Matricola | MHW1 | MHW2 |
-| :-------: | :--: | :--: |
+| Matricola | MHW1 | MHW2 | MHW3 |
+| :-------: | :--: | :--: | :--: |
 1000000383 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 1000001048 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 1000001055 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
