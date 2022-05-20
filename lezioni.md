@@ -23,7 +23,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 12  |  Introduzione PHP                                                | 03 Maggio  2022   | [Link](https://drive.google.com/file/d/19nsemKs2DURwXaTauLqLYQDw7zunwNwl/view?usp=sharing)                                      | [Link](https://drive.google.com/file/d/1bRvoSqpUZCb0xte-0YQlSqjUxjpkhdTl/view?usp=sharing)    |
 | Lezione 13  |  PHP: Sessioni, Database, AJAX                                                | 05 Maggio 2022   | [Link](https://drive.google.com/file/d/1mN3pmgRFRiDfyvgIcUHiJsjJkgcaronG/view?usp=sharing)                                      |   [Link](https://drive.google.com/file/d/1iZP60Y8-tNwvlzLIkwnQbY-2KfZx4LD6/view?usp=sharing)          |
 | Lezione 14  | MVC: Laravel                                                    | 17 Maggio 2022   | [Link](https://drive.google.com/file/d/1_Rc9TtzuDEO2oE-p6rjTZMpBDUKzmbvJ/view?usp=sharing)                                      |             |
-
+| Lezione 15  |  Esercitazione PHP                                                | 19 Maggio 2022   |                      |    [Link](https://studentiunict.sharepoint.com/:u:/s/DATABASESANDWEBPROGRAMMINGM-ZmoduloWEBPROGRAMMINGC.SPAMPI238-Lezioneprivata/Ef3goHTtMQxPkl3VW6llNQ0BOtb1iTw94y6dbdd7KgcaEw?e=49gYyd)     
 
 
 
