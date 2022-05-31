@@ -53,9 +53,8 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | Elaborato     | Voto Finale   |
 | :--------     |    -------: |
 | 3 mini-homework (da svolgere singolarmente) | 10% |
-| 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 40%  |
-| 1 homework su LARAVEL (porting homework precedente in Laravel) | 40% |
-| Integrazione ReactJS e NodeJS | 10% |
+| 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 45%  |
+| 1 homework su LARAVEL (porting homework precedente in Laravel) | 45% |
 
 
 
