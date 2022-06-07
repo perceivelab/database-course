@@ -25,7 +25,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 14  | MVC: Laravel                                                    | 17 Maggio 2022   | [Link](https://drive.google.com/file/d/1_Rc9TtzuDEO2oE-p6rjTZMpBDUKzmbvJ/view?usp=sharing)                                      |      [Video](https://studentiunict-my.sharepoint.com/:v:/g/personal/concetto_spampinato_unict_it/EVbMnOsFqIxFg_0bpJX6haoB6_bw6XispGbS2LOZDj2vBg?e=tivghi)       |
 | Lezione 15  |  Esercitazione PHP                                                | 19 Maggio 2022   |                      |    [Link](https://studentiunict.sharepoint.com/:u:/s/DATABASESANDWEBPROGRAMMINGM-ZmoduloWEBPROGRAMMINGC.SPAMPI238-Lezioneprivata/Ef3goHTtMQxPkl3VW6llNQ0BOtb1iTw94y6dbdd7KgcaEw?e=49gYyd)     
 | Lezione 16  |  Esercitazione Laravel                                                | 26 Maggio 2022   |                      |    [Link](https://studentiunict.sharepoint.com/:u:/s/WebProgramming2022-Esercitazione/EePUJ5qPAoBBsNmjEinCR_MBKUonTAsXWV1kK9Kltoxobg?e=j5ycgJ)     
-| Lezione 17  |  MongoDB                                                | 07 Giugno 2022   |                      |    [Link](https://drive.google.com/file/d/1xc2Ovw4RJa3aNX0nf_1d9iVBQ_OfF1pq/view?usp=sharing)     
+| Lezione 17  |  MongoDB                                                | 07 Giugno 2022   |                          [Link](https://drive.google.com/file/d/1xc2Ovw4RJa3aNX0nf_1d9iVBQ_OfF1pq/view?usp=sharing)     |
 
 
 
