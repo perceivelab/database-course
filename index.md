@@ -18,24 +18,27 @@ layout: default
 # AVVISI
 - *[09 Giu 2022]* Informazione sulla discussione degli homework.  DA LEGGERE ATTENTAMENTE.
 Gli studenti che hanno partecipato agli homework potranno discuterli nelle seguenti date:
-- 15/06/2022 ore 15.30
-- 27/06/2022 ore 15.30
-- 29/06/2022 ore 15.30
-- 01/07/2022  ore 15.30
-- 04/07/2022 ore 15.30
-- 06/07/2022 ore 15.30
-- 08/07/2022ore 15.30
-- 11/07/2022 ore 15.30
-- 13/07/2022 ore 15.30
-- 15/07/2022 ore 15.30
+-- 15/06/2022 ore 15.30
+-- 27/06/2022 ore 15.30
+-- 29/06/2022 ore 15.30
+-- 01/07/2022  ore 15.30
+-- 04/07/2022 ore 15.30
+-- 06/07/2022 ore 15.30
+-- 08/07/2022ore 15.30
+-- 11/07/2022 ore 15.30
+-- 13/07/2022 ore 15.30
+-- 15/07/2022 ore 15.30
 
-Ogni data di discussione degli homework è limitata a soli 10 studenti. La prenotazione deve essere fatta via studium-> prenotazioni.* E’ necessario che gli studenti carichino l’HW2 su github almeno 24 ore  prima della data scelta per la discussione*. La scadenza del 18/06/2022 presente sul sito è indicata quindi fare riferimento alle date sopra indicate.
+Il luogo per la discussione è AULA B del Polo Tecnologico.
 
-Alla fine della discussione, sulla base del voto conseguito in database, verrà proposto un voto complessivo per l'intera materia. SOLOE se il voto è accettato, lo studente deve prenotarsi sul GOMPP in una delle date degli appelli della sessione estiva ovvero: 
--  29/06/2022
--  20/07/2022
+Ogni data di discussione degli homework è limitata a soli 10 studenti. La prenotazione deve essere fatta via studium-> prenotazioni.* E’ necessario che gli studenti carichino l’HW2 su github almeno 24 ore  prima della data scelta per la discussione*. La scadenza del 18/06/2022 presente sul sito è indicativa. quindi fare riferimento alle date sopra indicate.
+
+Alla fine della discussione, sulla base del voto conseguito in database, verrà proposto un voto complessivo per l'intera materia. SOLO se il voto è accettato, lo studente deve prenotarsi sul GOMPP in una delle date degli appelli della sessione estiva ovvero: 
+--  29/06/2022
+--  20/07/2022
 
 Gli homework varranno solo per la sessione estiva (a meno di problemi oggettivi di salute). Quindi se non riuscite a discutere i vostri homework entro le date di cui sopra, a settembre è necessario fare l'esame intero secondo le specifiche indicate sul sito del corso. 
+
 - *[06 Mag 2022]* - Le specifiche per l'HW1 sono disponibili alla sezione homework.
 - *[04 Apr 2022]* - La lezione di domani (05/04/2022) si terrà dalle ore 17 alle ore 20.
 - *[04 Apr 2022]* - E' stato aggiornato il link per il canale Discord.
