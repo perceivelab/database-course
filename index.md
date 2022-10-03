@@ -3,7 +3,6 @@ layout: default
 ---
 {: .welcome} 
 
-### Benvenuti al corso di Database 2022-2023.
 
 **Prerequisiti**: Conoscenza dei linguaggi di programmazione (C/Java)  
 
