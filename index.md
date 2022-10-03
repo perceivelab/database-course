@@ -13,7 +13,7 @@ layout: default
 | Venerdì 12-14 - D44  | 
 
 **Ricevimento**: [Concordare via mail](#staff) 
-
+| :----------:    |
 | Lunedì 17-18 | 
 | Venerdì 15-16| 
 
