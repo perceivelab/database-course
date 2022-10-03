@@ -7,8 +7,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 
 | Lezioni    | Argomento                                                       | Data            | Slides                          | Codice      |
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
-| Introduzione  | Introduzione Corso                    | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/12EHWP8JP0bh37-KipYWKobrrLyXBfPZ2/view?usp=sharing)                                         |             |
-| Lezione 1  | Modello relazionale                      | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/1_90rl-51YiViR6deMLtBrlO4Zvf2BSew/view?usp=sharing)        |             |
+| Introduzione  | Introduzione Corso                    | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/1u_I_BZALl_8nyqxvalevX5x7dyJV4yRw/view?usp=sharing)                                         |             |
+| Lezione 1  | Modello relazionale                      | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/15EaCh1d7VxnKTfylcErryjHwbERGk1Qo/view?usp=sharing)        |             |
 | Lezione 2  | Algebra relazionale                      | 07 Ottobre 2022   |                         |             |
 | Lezione 3  | Esercitazione Algebra relazionale        | 10 Ottobre 2022   |                         |             |
 | Lezione 4  | SQL: Concetti di base                    | 14 Ottobre 2022   |                         |             |
