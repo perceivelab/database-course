@@ -7,14 +7,14 @@ layout: default
 
 **Prerequisiti**: Conoscenza dei linguaggi di programmazione (C/Java)  
 
-| Lezioni     |
+| **Lezioni**     |
 | :----------:    |
 | Lunedì 14-17  - D32  | 
 | Venerdì 12-14 - D44  | 
 
-**Ricevimento**: [Concordare via mail](#staff) 
 
-| Orari     |
+
+| **Ricevimento**: [Concordare via mail](#staff)      |
 | :----------:   |
 | Lunedì 17-18   | 
 | Venerdì 15-16  | 
