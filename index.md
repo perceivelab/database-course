@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
+{: .welcome} 
 
 ### Benvenuti al corso di Database 2022-2023.
-{: .welcome} 
 
 **Prerequisiti**: Conoscenza dei linguaggi di programmazione (C/Java)  
 
@@ -13,19 +13,18 @@ layout: default
 | Venerdì 12-14 - D44  | 
 
 **Ricevimento**: [Concordare via mail](#staff) 
-| :----------:    |
-| Lunedì 17-18 | 
-| Venerdì 15-16| 
-
+| Orari     |
+| :----------:   |
+| Lunedì 17-18   | 
+| Venerdì 15-16  | 
 
 
 # AVVISI
 - *[03 Ott 2022]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 ottobre 2022 e di accedente al link discord entro il 10 ottobre 2022. 
 
-# ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
+# FORUM STUDENTI
 {: #tag}
 Durante il corso si utilizzera', il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/wGUg7JkS).
-
 
 
 # VALUTAZIONE
@@ -46,10 +45,10 @@ La roadmap e' provvisoria e puo' subire variazioni.
 # DATE ESAME DATABASE
 La roadmap e' provvisoria e puo' subire variazioni.
 
-| Prova    | Argomento          | Data    |
-| :-------:| ------------------ | ---------------|
-| 1     | SQL e NoSQL         | 18 Novembre 2022  |
-| 2     | Progettazione database       | 19 Dicembre 2022   |
+| Prova    | Argomento                    | Data                |
+| :-------:| ------------------           | ---------------     |
+| 1        | SQL e NoSQL                  | 07 Febbraio 2023    |
+| 2        | Progettazione database       | 27 Febbraio 2023    |
 
 
 
