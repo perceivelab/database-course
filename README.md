@@ -1,1 +1,1 @@
-# web-programming-course
+# database-course
