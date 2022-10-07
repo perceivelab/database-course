@@ -9,7 +9,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
 | Introduzione  | Introduzione Corso                    | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/1u_I_BZALl_8nyqxvalevX5x7dyJV4yRw/view?usp=sharing)                                         |             |
 | Lezione 1  | Modello relazionale                      | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/15EaCh1d7VxnKTfylcErryjHwbERGk1Qo/view?usp=sharing)        |             |
-| Lezione 2  | Algebra relazionale                      | 07 Ottobre 2022   | [Link](https://drive.google.com/file/d/1A-qmts9eQMoQPqdN6f6_j1QWPLIntvNc/view?usp=sharing)                        |      [Link]([https://drive.google.com/file/d/1A-qmts9eQMoQPqdN6f6_j1QWPLIntvNc/view?usp=sharing](https://drive.google.com/file/d/1xhLANQBfE-IPZenv5l__r-LpDB_vGVbi/view?usp=sharing)       |
+| Lezione 2  | Algebra relazionale                      | 07 Ottobre 2022   | [Link](https://drive.google.com/file/d/1A-qmts9eQMoQPqdN6f6_j1QWPLIntvNc/view?usp=sharing)                        |      [Link](https://drive.google.com/file/d/1xhLANQBfE-IPZenv5l__r-LpDB_vGVbi/view?usp=sharing)  |
 | Lezione 3  | Esercitazione Algebra relazionale        | 10 Ottobre 2022   |                         |             |
 | Lezione 4  | SQL: Concetti di base                    | 14 Ottobre 2022   |                         |             |
 | Lezione 5  | SQL Avanzato                             | 17 Ottobre 2022   |                         |             |
