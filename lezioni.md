@@ -5,7 +5,7 @@ layout: page
 # LEZIONI
 Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di web programming 2022.
 
-| Lezioni    | Argomento                                                       | Data            | Slides                          | Codice      |
+| Lezioni    | Argomento                                                       | Data            | Slides                          | Codice/Altro      |
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
 | Introduzione  | Introduzione Corso                    | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/1u_I_BZALl_8nyqxvalevX5x7dyJV4yRw/view?usp=sharing)                                         |             |
 | Lezione 1  | Modello relazionale                      | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/15EaCh1d7VxnKTfylcErryjHwbERGk1Qo/view?usp=sharing)        |             |
