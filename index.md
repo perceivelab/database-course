@@ -60,9 +60,9 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 - *[Concetto Spampinato](mailto:cspampin@dieei.unict.it)*
 
-- *[Raffale Mineo](mailto:Raffaele.Mineo@unicampus.it)*
+- *[Raffaele Mineo](mailto:raffaele.mineo@unicampus.it)*
 
-- *[Matteo Pennisi](mailto:Matteo.Pennisi@unicampus.it)*
+- *[Matteo Pennisi](mailto:matteo.pennisi@unicampus.it)*
 
 
 [404]: /web-programming-course/fallback
