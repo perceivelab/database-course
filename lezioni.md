@@ -11,7 +11,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 1  | Modello relazionale                      | 03 Ottobre 2022   | [Link](https://drive.google.com/file/d/15EaCh1d7VxnKTfylcErryjHwbERGk1Qo/view?usp=sharing)        |             |
 | Lezione 2  | Algebra relazionale                      | 07 Ottobre 2022   | [Link](https://drive.google.com/file/d/1A-qmts9eQMoQPqdN6f6_j1QWPLIntvNc/view?usp=sharing)                        |      [Link](https://drive.google.com/file/d/1xhLANQBfE-IPZenv5l__r-LpDB_vGVbi/view?usp=sharing)  |
 | Lezione 3  | Esercitazione Algebra relazionale        | 10 Ottobre 2022   |                         | [Testo](https://drive.google.com/file/d/1rKO9jEPbvPDXGFqN5TLWSCXxsN-ddXwu/view?usp=sharing) [Soluzione](https://drive.google.com/file/d/1uICFMgfGmf_m8rTpIYTc1TPksi9_VrBH/view?usp=sharing)            |
-| Lezione 4  | SQL: Concetti di base                    | 14 Ottobre 2022   | [Link](https://drive.google.com/file/d/12f3Y_c3bwVJnVp1Ql66YF8YHW7bcrxyf/view?usp=sharing)                        |             |
+| Lezione 4  | SQL: Concetti di base                    | 14 Ottobre 2022   | [Link](https://drive.google.com/file/d/1zLyhfNtUqWMqimEtk2PAbZJsA6m6o6aS/view?usp=sharing)                        |             |
 | Lezione 5  | SQL Avanzato                             | 17 Ottobre 2022   |                         |             |
 | Lezione 6  | SQL: trigger e procedure                 | 17 Ottobre 2022   |                         |             |
 | Lezione 7  | Laboratorio SQL: parte 1                 | 24 Ottobre 2022   |                         |             |
