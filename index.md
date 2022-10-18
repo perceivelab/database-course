@@ -48,13 +48,7 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 2     | Progettazione database       | 19 Dicembre 2022   |
 
 # DATE ESAME DATABASE
-La roadmap e' provvisoria e puo' subire variazioni.
-
-| Prova    | Argomento                    | Data                |
-| :-------:| ------------------           | ---------------     |
-| 1        | SQL e NoSQL                  | 07 Febbraio 2023    |
-| 2        | Progettazione database       | 27 Febbraio 2023    |
-
+Il calendario dell'esame è disponibile al [link] (https://www.dieei.unict.it/sites/default/files/files/CalendarioEsami_L8INF_2022-2023_delibera.pdf)
 
 
 # STAFF
