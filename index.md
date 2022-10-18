@@ -48,7 +48,7 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 2     | Progettazione database       | 19 Dicembre 2022   |
 
 # DATE ESAME DATABASE
-Il calendario dell'esame è disponibile al [link] (https://www.dieei.unict.it/sites/default/files/files/CalendarioEsami_L8INF_2022-2023_delibera.pdf)
+Il calendario dell'esame è disponibile al [link](https://www.dieei.unict.it/sites/default/files/files/CalendarioEsami_L8INF_2022-2023_delibera.pdf)
 
 
 # STAFF
