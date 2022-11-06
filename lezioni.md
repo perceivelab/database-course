@@ -16,20 +16,21 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 6  | SQL: trigger e procedure                 | 17 Ottobre 2022   |    [Advanced SQL](https://drive.google.com/file/d/1gwbvt1cCsAN91pKShpLmL8Oj_n_zUnp6/view?usp=sharing)                     |             |
 | Lezione 7  | Laboratorio SQL: parte 1                 | 24 Ottobre 2022   | [Esercitazione1_testo](https://drive.google.com/file/d/1U7OOJdAS7KO35V79Vkql-YpQXpWCPwRe/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/122AD9a5xM8PO9B2fIntYr81e0XD-PYM0/view?usp=sharing) [Esercitazione2_testo](https://drive.google.com/file/d/1lpOeANRIWdL4h5ZbLlucaei8sS1Z3sCH/view?usp=sharing) [Esercitazione3_testo](https://drive.google.com/file/d/1UBj_yDPDhH0sH9tkBtHdZI0sey8b-94q/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/1Lso_VbmuBDzh7EZmy8xklQM3Bns2T-Uf/view?usp=sharing) [Esercitazione4_testo](https://drive.google.com/file/d/1kx_pa-Yqc9-CLwG40t6fspy2g8xAlcDF/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/1eONZZMamy96_n-DegvjfJ5yCibyUjeG5/view?usp=sharing)                    | [Esercitazione1_soluzione](https://drive.google.com/file/d/1p-mm4RzjTjfpVHwOzRGYKUhoqb7TLbB7/view?usp=sharing) [Esercitazione2_soluzione](https://drive.google.com/file/d/1sPkRf2ccJSsraYdD0l4YrZb3Ez7jEIkj/view?usp=sharing) [Esercitazione3_soluzione](https://drive.google.com/file/d/1oIO4nZcUjdeIPyhyiAjkA2sRAOsOya-k/view?usp=sharing) [Esercitazione4_soluzione](https://drive.google.com/file/d/1uu7KEYAfEzZPhewKmPiGe_MGt1cZvxsp/view?usp=sharing)         |
 | Lezione 8  | Laboratorio SQL: parte 2                 | 28 Ottobre 2022   | [Testo](https://drive.google.com/file/d/10TcOD8hcc9jl-LfiqNhUKGGWNrj6JKLt/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/1eH-Y5O6zLPLvV3c3H4qK0SrZj5J58Ld_/view?usp=sharing)                       | [Soluzione](https://drive.google.com/file/d/1jXxiKd2K7mXKNMIn2Ie4CsNWnky-hbhs/view?usp=sharing)            |
-| ~~Lezione 9~~  | ~~Laboratorio SQL: parte 3~~                 | ~~31 Ottobre 2022~~   |                         |             |
-| Lezione 10 | Database NoSQL                           | 04 Novembre 2022  |                         |             |
-| Lezione 11 | Operatori NoSQL                          | 07 Novembre 2022  |                         |             |
-| Lezione 12 | Laboratorio NoSQL: parte 1               | 11 Novembre 2022  |                         |             |
-| Lezione 13 | Laboratorio NoSQL: parte 2               | 14 Novembre 2022  |                         |             |
-| Lezione 14 | Prova in itinere                         | 18 Novembre 2022  |                         |             |
-| Lezione 15 | Progettazione concettuale                | 21 Novembre 2022  |                         |             |
-| Lezione 16 | Esercitazione progettazione concettuale  | 25 Novembre 2022  |                         |             |
-| Lezione 17 | Progettazione logica                     | 28 Novembre 2022  |                         |             |
-| Lezione 18 | Esercitazione progettazione logica       | 02 Dicembre 2022  |                         |             |
-| Lezione 19 | Esercitazione complessiva progettazione  | 05 Dicembre 2022  |                         |             |
-| Lezione 20 | Esercitazione complessiva progettazione  | 09 Dicembre 2022  |                         |             |
-| Lezione 21 | Seminario Database in Industria          | 16 Dicembre 2022  |                         |             |
-| Lezione 22 | Prova in itinere progettazione           | 19-23 Dicembre 2022  |                         |             |
+| Lezione 9 | Trigger                                   | 04 Novembre 2022  |  [Esercizio_testo](https://drive.google.com/file/d/1JpWTeehVDmm1EeO4l68mk74Y5I5KFLmv/view?usp=sharing) + [(+Dati)](https://drive.google.com/file/d/17eOXx23Ur7ZIt_nNAMag4D53BlBiAU9z/view?usp=sharing)                       |     [Soluzione](https://drive.google.com/file/d/1LF4up44RX9ha5N1Vi_PxEgM3zd9VucNy/view?usp=sharing)         |
+| Lezione 10 | Laboratorio SQL: parte 3                 | 07 Novembre 2022  |                         |             |
+|            | Simulazione prova in itinere             | 11 Novembre 2022  |                         |             |
+| Lezione 11 | Database NoSQL                           | 11 Novembre 2022  |                         |             |
+| Lezione 12 | Operatori NoSQL                          | 14 Novembre 2022  |                         |             |
+|            | Prova in itinere                         | 18 Novembre 2022  |                         |             |
+| Lezione 13 | Laboratorio NoSQL                        | 21 Novembre 2022  |                         |             |
+| Lezione 14 | Laboratorio NoSQL                        | 25 Novembre 2022  |                         |             |
+| Lezione 15 | Progettazione concettuale                | 02 Dicembre 2022  |                         |             |
+| Lezione 16 | Esercitazione progettazione concettuale  | 05 Dicembre 2022  |                         |             |
+| Lezione 17 | Progettazione logica                     | 09 Dicembre 2022  |                         |             |
+| Lezione 18 | Esercitazione progettazione logica       | 12 Dicembre 2022  |                         |             |
+| Lezione 19 | Esercitazione complessiva progettazione  | 16 Dicembre 2022  |                         |             |
+| Lezione 20 | Esercitazione complessiva progettazione  | 19 Dicembre 2022  |                         |             |
+|            | Prova in itinere progettazione           | 23 Dicembre 2022  |                         |             |
 
 
 
