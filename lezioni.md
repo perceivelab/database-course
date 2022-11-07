@@ -18,8 +18,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 8  | Laboratorio SQL: parte 2                 | 28 Ottobre 2022   | [Testo](https://drive.google.com/file/d/10TcOD8hcc9jl-LfiqNhUKGGWNrj6JKLt/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/1eH-Y5O6zLPLvV3c3H4qK0SrZj5J58Ld_/view?usp=sharing)                       | [Soluzione](https://drive.google.com/file/d/1jXxiKd2K7mXKNMIn2Ie4CsNWnky-hbhs/view?usp=sharing)            |
 | Lezione 9 | Trigger                                   | 04 Novembre 2022  |  [Esercizio_testo](https://drive.google.com/file/d/1JpWTeehVDmm1EeO4l68mk74Y5I5KFLmv/view?usp=sharing) + [(Dati)](https://drive.google.com/file/d/17eOXx23Ur7ZIt_nNAMag4D53BlBiAU9z/view?usp=sharing)                       |     [Soluzione](https://drive.google.com/file/d/1LF4up44RX9ha5N1Vi_PxEgM3zd9VucNy/view?usp=sharing)         |
 | Lezione 10 | Laboratorio SQL: parte 3                 | 07 Novembre 2022  |    [Esercizio_testo](https://drive.google.com/file/d/1pbttccp4-NdnaE90PqPlc-5KEhYKgs4V/view?usp=sharing) + [(Dati)](https://drive.google.com/file/d/1dTAEG8rbLhUP7Gpno-ZeZBgRbVninQAp/view?usp=sharing) |             |
-|            | Simulazione prova in itinere             | 11 Novembre 2022  |                         |             |
 | Lezione 11 | Database NoSQL                           | 11 Novembre 2022  |                         |             |
+|            | Simulazione prova in itinere             | 11 Novembre 2022  |                         |             |
 | Lezione 12 | Operatori NoSQL                          | 14 Novembre 2022  |                         |             |
 |            | Prova in itinere                         | 18 Novembre 2022  |                         |             |
 | Lezione 13 | Laboratorio NoSQL                        | 21 Novembre 2022  |                         |             |
