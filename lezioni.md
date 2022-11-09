@@ -18,18 +18,17 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 8  | Laboratorio SQL: parte 2                 | 28 Ottobre 2022   | [Testo](https://drive.google.com/file/d/10TcOD8hcc9jl-LfiqNhUKGGWNrj6JKLt/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/1eH-Y5O6zLPLvV3c3H4qK0SrZj5J58Ld_/view?usp=sharing)                       | [Soluzione](https://drive.google.com/file/d/1jXxiKd2K7mXKNMIn2Ie4CsNWnky-hbhs/view?usp=sharing)            |
 | Lezione 9 | Trigger                                   | 04 Novembre 2022  |  [Esercizio_testo](https://drive.google.com/file/d/1JpWTeehVDmm1EeO4l68mk74Y5I5KFLmv/view?usp=sharing) + [(Dati)](https://drive.google.com/file/d/17eOXx23Ur7ZIt_nNAMag4D53BlBiAU9z/view?usp=sharing)                       |     [Soluzione](https://drive.google.com/file/d/1LF4up44RX9ha5N1Vi_PxEgM3zd9VucNy/view?usp=sharing)         |
 | Lezione 10 | Laboratorio SQL: parte 3                 | 07 Novembre 2022  |    [Esercizio_testo](https://drive.google.com/file/d/1pbttccp4-NdnaE90PqPlc-5KEhYKgs4V/view?usp=sharing) + [(Dati)](https://drive.google.com/file/d/1dTAEG8rbLhUP7Gpno-ZeZBgRbVninQAp/view?usp=sharing) |     [Soluzione](https://drive.google.com/file/d/1FotFkD1SmioulpLCG5zzqGiOP32TVolV/view?usp=sharing)        |
-| Lezione 11 | Database NoSQL                           | 11 Novembre 2022  |                         |             |
-|            | Simulazione prova in itinere             | 11 Novembre 2022  |                         |             |
-| Lezione 12 | Operatori NoSQL                          | 14 Novembre 2022  |                         |             |
+| Lezione 11 | Database NoSQL - MongoDB                 | 11 Novembre 2022  |                         |             |
+| Lezione 12 | Laboratorio NoSQL                        | 14 Novembre 2022  |                         |             |
+| Lezione 13 | Simulazione prova in itinere             | 16 Novembre 2022  |                         |             |
 |            | Prova in itinere                         | 18 Novembre 2022  |                         |             |
-| Lezione 13 | Laboratorio NoSQL                        | 21 Novembre 2022  |                         |             |
-| Lezione 14 | Laboratorio NoSQL                        | 25 Novembre 2022  |                         |             |
-| Lezione 15 | Progettazione concettuale                | 02 Dicembre 2022  |                         |             |
-| Lezione 16 | Esercitazione progettazione concettuale  | 05 Dicembre 2022  |                         |             |
-| Lezione 17 | Progettazione logica                     | 09 Dicembre 2022  |                         |             |
-| Lezione 18 | Esercitazione progettazione logica       | 12 Dicembre 2022  |                         |             |
-| Lezione 19 | Esercitazione complessiva progettazione  | 16 Dicembre 2022  |                         |             |
-| Lezione 20 | Esercitazione complessiva progettazione  | 19 Dicembre 2022  |                         |             |
+| Lezione 14 | Laboratorio NoSQL 2                      | 21 Novembre 2022  |                         |             |
+| Lezione 15 | Progettazione concettuale                | 25 Novembre 2022  |                         |             |
+| Lezione 16 | Esercitazione progettazione concettuale  | 02 Dicembre 2022  |                         |             |
+| Lezione 17 | Progettazione logica                     | 05 Dicembre 2022  |                         |             |
+| Lezione 18 | Esercitazione progettazione logica       | 09 Dicembre 2022  |                         |             |
+| Lezione 19 | Esercitazione complessiva progettazione  | 12 Dicembre 2022  |                         |             |
+| Lezione 20 | Esercitazione complessiva progettazione  | 16 Dicembre 2022  |                         |             |
 |            | Prova in itinere progettazione           | 23 Dicembre 2022  |                         |             |
 
 
