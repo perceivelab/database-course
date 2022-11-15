@@ -20,6 +20,9 @@ layout: default
 
 
 # AVVISI
+- *[15 Nov 2022]* La prova in itinere si terrà giorno 18/11/2022 alle ore 8.15 presso l'aula D44. Si ricorda che è OBBLIGATORIA la prenotazione che scade oggi alle ore 12.00. Gli studenti durante la prova, dovranno usare il loro PC (con wi-fi disabilitato) e potranno usare un foglio A4 (fronte e retro) di appunti. 
+- *[15 Nov 2022]* Al seguente [link](https://drive.google.com/file/d/1OcjCKK89wueKIqpjP-DhuApPRinrxvK6/view?usp=sharing) sono disponibili alcune varianti delle prove in itinere degli anni precedenti. 
+
 - *[17 Ott 2022]* Al seguente [link](https://drive.google.com/file/d/1ft-fxOpp31ONrp2tC7mzMaXYy0HpkkB7/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/1B3x7M0oJwgYu4Gzf-vE2RZdjXJ87JlXW/view?usp=sharing) è pubblicato il testo dell'homework sugli operatori aggregati. La consegna del file .sql contenente le query SQL deve essere fatta su Studium entro le ore 23.59 del 23/10/2022
 - *[11 Ott 2022]* Al seguente [link](https://drive.google.com/file/d/18ktpSfI02fh0agXa_MiZqlxjJWuY0vVO/view?usp=sharing) è pubblicato il testo dell'homework sull'algebra relazionale. La consegna, secondo la modalità descritta, deve essere fatta su Studium entro le ore 23.59 del 15/10/2022
 - *[03 Ott 2022]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 ottobre 2022 e di accedente al link discord entro il 10 ottobre 2022. 
