@@ -23,9 +23,9 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 |            | Prova in itinere               | 18 Novembre 2022  |                         |             |
 | Lezione 13 | Database NoSQL - MongoDB                 | 21 Novembre 2022  |    [NoSQL](https://drive.google.com/file/d/1W4_aYwbzdaquzuzfpXw7h7pne60HvJB5/view?usp=sharing)                     |   [Esercizio_testo](https://drive.google.com/file/d/1nvLxDGR_t-WDJWiXnCn9gWLpbnOKjjvc/view?usp=sharing)  + [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/EQATE4R5b7BEodSAT5hHzFQB43Bmpj2PcGxqQlsQArT8EQ?e=P9qnDR)|
 | Lezione 14 | Laboratorio NoSQL                        | 25 Novembre 2022  |     [Testo](https://drive.google.com/file/d/1PUf2R25JiSu6lnkpaJbS2Vw2OmU0Xc0C/view?usp=sharing) + [(Dati)](https://drive.google.com/file/d/1ijUw0IAcVg2_ksmuJJlCvEo7agR2i5hi/view?usp=sharing)                    | [Soluzione](https://drive.google.com/file/d/1WshnZwtJIGAetTjtHgsPv81WfWu-P5I5/view?usp=sharing)            |
-| Lezione 15 | Progettazione concettuale                | 28 Novembre 2022  |  [ProgettazioneConcettuale](https://drive.google.com/file/d/1ezh_2j3jAEUf34FCwuwAJoMlGPf3Rb-0/view?usp=sharing) + [Esempi](https://drive.google.com/file/d/1LMxfR6CELuzYdcEBwfLq9mGu6x_IvnwL/view?usp=sharing)                      |      |
-| Lezione 16 | Esercitazione progettazione concettuale  | 05 Dicembre 2022  |                         |             |
-| Lezione 17 | Progettazione logica                     | 09 Dicembre 2022  |                         |             |
+| Lezione 15 | Progettazione concettuale                | 28 Novembre 2022  |  [ProgettazioneConcettuale](https://drive.google.com/file/d/1ezh_2j3jAEUf34FCwuwAJoMlGPf3Rb-0/view?usp=sharing) |      |
+| Lezione 16 | Esercitazione progettazione concettuale  | 02 Dicembre 2022  |        [Esempi](https://drive.google.com/file/d/1LMxfR6CELuzYdcEBwfLq9mGu6x_IvnwL/view?usp=sharing)                                       |             |
+| Lezione 17 | Progettazione logica                     | 05 Dicembre 2022  |                         |             |
 | Lezione 18 | Esercitazione progettazione logica       | 12 Dicembre 2022  |                         |             |
 | Lezione 19 | Esercitazione complessiva progettazione  | 14 Dicembre 2022  |                         |             |
 | Lezione 20 | Esercitazione complessiva progettazione  | 16 Dicembre 2022  |                         |             |
