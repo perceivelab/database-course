@@ -20,7 +20,7 @@ layout: default
 
 
 # AVVISI
-- *[05 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1_R46_2HDsmRN_EBWqstUzIdtIe1g1fJd/view?usp=sharing) trovate il testo dell'homework sulla progettazione concettuale. Il compito deve essere consegnato digitalmente su studium.
+- *[05 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1_R46_2HDsmRN_EBWqstUzIdtIe1g1fJd/view?usp=sharing) trovate il testo dell'homework sulla progettazione concettuale. Il compito deve essere consegnato digitalmente su studium. La scadenza è giorno 12/12/2022 alle ore 13.00.
 - *[02 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1Q52Tmdu1wEix__IcpFng0Kj8h4Pl4boD/view?usp=sharing) sono disponibili gli esiti della prova in itinere di SQL del 18/11/2022. Gli studenti che non hanno superato questa prova, potranno partecipare alla prova di progettazione e poi recuperare in una data a gennaio, da fissare. A questa prova potranno anche partecipare gli studenti che intendono migliorare il proprio voto. Nel qual caso, la votazione che varrà ai fini del calcolo della media finale, sarà quella relativa all'ultima prova sostenuta. Infine, la visione del compito sarà possibile solo martedì 06/12/2022 alle ore 16.00 presso il polo tecnologico, previa prenotazione via email.
 
 - *[15 Nov 2022]* La prova in itinere si terrà giorno 18/11/2022 alle ore 8.15 presso l'aula D44. Si ricorda che è OBBLIGATORIA la prenotazione che scade oggi alle ore 12.00. Gli studenti durante la prova, dovranno usare il loro PC (con wi-fi disabilitato) e potranno usare un foglio A4 (fronte e retro) di appunti. 
