@@ -26,6 +26,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 15 | Progettazione concettuale                | 28 Novembre 2022  |  [ProgettazioneConcettuale](https://drive.google.com/file/d/1ezh_2j3jAEUf34FCwuwAJoMlGPf3Rb-0/view?usp=sharing) |      |
 | Lezione 16 | Esercitazione progettazione concettuale  | 02 Dicembre 2022  |        [Esercizi progettazione concettuale](https://drive.google.com/file/d/1LMxfR6CELuzYdcEBwfLq9mGu6x_IvnwL/view?usp=sharing)                                       |       [Soluzioni](https://drive.google.com/file/d/1BwEhxJ5ZVD109Blg-lU0ai-TYSFbM_iF/view?usp=sharing)      |
 | Lezione 17 | Progettazione logica                     | 05 Dicembre 2022  |   [Progettazione logica](https://drive.google.com/file/d/1-QwGoyIi_bL4dAZxlEWRqg8nxjVGxhKe/view?usp=sharing)                      |    [Esercizio PC](https://drive.google.com/file/d/1CgEBZn7VHSn43iL63lluqt3YtwVE6Ct-/view?usp=sharing)         |
+|  | Esempio Progettazione logica                       | 05 Dicembre 2022  |   [Esempio](https://drive.google.com/file/d/1R_c0-rhFuDaH3FoxJ--P-VShs14qW4bI/view?usp=sharing)                      |         |
+
 | Lezione 18 | Esercitazione progettazione logica       | 12 Dicembre 2022  |                         |             |
 | Lezione 19 | Esercitazione complessiva progettazione  | 16 Dicembre 2022  |                         |             |
 | Lezione 20 | Esercitazione complessiva progettazione  | 19 Dicembre 2022  |                         |             |
