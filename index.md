@@ -20,7 +20,7 @@ layout: default
 
 
 # AVVISI
-- *[14 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1JeExnh4fkVvALl7UPEuexoQWb6IvLwTS/view?usp=share_link) trovate testi di compiti degli anni scorsi, mentre al [link](https://drive.google.com/file/d/1rZw-rLV7osW9wiqL-lGTtry6Ru0Dgc6a/view?usp=share_link) alcuni compiti di progezzione concettuale svolti.
+- *[14 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1JeExnh4fkVvALl7UPEuexoQWb6IvLwTS/view?usp=share_link) trovate testi di compiti degli anni scorsi, mentre al [link](https://drive.google.com/file/d/1rZw-rLV7osW9wiqL-lGTtry6Ru0Dgc6a/view?usp=share_link) alcuni compiti svolti di progettazione concettuale.
 - *[05 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1_R46_2HDsmRN_EBWqstUzIdtIe1g1fJd/view?usp=sharing) trovate il testo dell'homework sulla progettazione concettuale. Il compito deve essere consegnato digitalmente su studium. La scadenza è giorno 12/12/2022 alle ore 13:00.
 - *[02 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1Q52Tmdu1wEix__IcpFng0Kj8h4Pl4boD/view?usp=sharing) sono disponibili gli esiti della prova in itinere di SQL del 18/11/2022. Gli studenti che non hanno superato questa prova, potranno partecipare alla prova di progettazione e poi recuperare in una data a gennaio, da fissare. A questa prova potranno anche partecipare gli studenti che intendono migliorare il proprio voto. Nel qual caso, la votazione che varrà ai fini del calcolo della media finale, sarà quella relativa all'ultima prova sostenuta. Infine, la visione del compito sarà possibile solo martedì 06/12/2022 alle ore 16.00 presso il polo tecnologico, previa prenotazione via email.
 
