@@ -29,8 +29,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 |  | Esempio Progettazione logica                       | 05 Dicembre 2022  |   [Esempio](https://drive.google.com/file/d/1R_c0-rhFuDaH3FoxJ--P-VShs14qW4bI/view?usp=sharing)                      |         |
 | Lezione 18 | Esercitazione progettazione logica       | 12 Dicembre 2022  |   [Esercitazione_testo](https://drive.google.com/file/d/1r8HkARpRLbx-UdvN61ZS-8nelvBjYAg_/view?usp=sharing)                      |   [Soluzione](https://drive.google.com/file/d/1wP_cGrabxLOG_4E7cqHipQy1xuaHVplQ/view?usp=sharing)          | 
 | Lezione 19 | Esercitazione complessiva progettazione  | 16 Dicembre 2022  |     [Testo](https://drive.google.com/file/d/1J_h9qlw27bd0bkl-jj0NuaGPjjoX_OKN/view?usp=sharing)                    | [Soluzione](https://drive.google.com/file/d/18FuJX0xQtlFGIJEHfghfjTEj3ttFxXWj/view?usp=sharing)            |
-| Lezione 20 | Esercitazione complessiva progettazione  | 19 Dicembre 2022  |                         |             |
-|            | Prova in itinere progettazione           | 23 Dicembre 2022  |                         |             |
+| Lezione 20           | Prova in itinere progettazione           | 23 Dicembre 2022  |                         |             |
 
 
 
