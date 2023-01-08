@@ -21,6 +21,8 @@ layout: default
 
 # AVVISI
 
+- *[08 Gen 2023]* Al seguente [link](https://drive.google.com/file/d/1WsVk5-IVbafOXJAOFls9BIOOiHl5nDFk/view?usp=sharing) sono disponibili gli esiti complessivi per il modulo di database. Gli studenti che hanno superato solo una delle due prove, possono partecipare alla prova di recupero del 13/01/2022 (prenotandosi nell'apposita sezione su STUDIUM). Gli studenti che invece non hanno superato nessuna delle due prove, portranno partecipare (sostenendo solo la prova integrata del modulo DATABASE) nelle date ufficiali previste per il mese di febbraio.  
+
 - *[08 Gen 2023]* Al seguente [link](https://drive.google.com/file/d/1AdUy5CU39JTmpcSmUU5B1-Pxmb0CxfAl/view?usp=sharing) sono disponibili gli esiti della prova di progettazione del 23/12/2022. La visione del compito sarà possibile solo martedì 10/01/2023 alle ore 11.30 presso il polo tecnologico, previa prenotazione via email.
 
 - *[14 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1JeExnh4fkVvALl7UPEuexoQWb6IvLwTS/view?usp=share_link) trovate testi di compiti degli anni scorsi, mentre al [link](https://drive.google.com/file/d/1rZw-rLV7osW9wiqL-lGTtry6Ru0Dgc6a/view?usp=share_link), sono disponibili compiti svolti di progettazione concettuale.
