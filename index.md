@@ -21,8 +21,10 @@ layout: default
 
 # AVVISI
 
+- *[08 Mar 2023]* Al seguente [link](https://drive.google.com/file/d/1Zt-I9nKPLhPFbJQPxJ9307QsLIWWx4-f/view?usp=sharing) sono disponibili i risultati della prova di recupero di giorno 27/02/2023.
+
 - *[23 Feb 2023]* Al seguente [link](https://drive.google.com/file/d/1C-luvjZWJW3GWAmUKn-7mWZoLEuh2kXl/view?usp=sharing) sono disponibili i risultati della prova di recupero di giorno 07/02/2023.
- 
+
 - *[16 Gen 2023]* Al seguente [link](https://drive.google.com/file/d/1flwK1VkV_-MDe3mn1iY5ZkW81yPfb5vO/view?usp=sharing) sono disponibili i risultati della prova di recupero di giorno 13/01/2023.
 
 - *[08 Gen 2023]* Al seguente [link](https://drive.google.com/file/d/1WsVk5-IVbafOXJAOFls9BIOOiHl5nDFk/view?usp=sharing) sono disponibili gli esiti complessivi per il modulo di database. Gli studenti che hanno superato solo una delle due prove, possono partecipare alla prova di recupero del 13/01/2022 (prenotandosi nell'apposita sezione su STUDIUM). Gli studenti che invece non hanno superato nessuna delle due prove, portranno partecipare (sostenendo solo la prova integrata del modulo DATABASE) nelle date ufficiali previste per il mese di febbraio.  
