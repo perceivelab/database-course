@@ -21,25 +21,6 @@ layout: default
 
 # AVVISI
 
-<!--#- *[08 Mar 2023]* Al seguente [link](https://drive.google.com/file/d/1Zt-I9nKPLhPFbJQPxJ9307QsLIWWx4-f/view?usp=sharing) sono disponibili i risultati della prova di recupero di giorno 27/02/2023.
-
-#- *[23 Feb 2023]* Al seguente [link](https://drive.google.com/file/d/1C-luvjZWJW3GWAmUKn-7mWZoLEuh2kXl/view?usp=sharing) sono disponibili i risultati della prova di recupero di giorno 07/02/2023.
-
-#- *[16 Gen 2023]* Al seguente [link](https://drive.google.com/file/d/1flwK1VkV_-MDe3mn1iY5ZkW81yPfb5vO/view?usp=sharing) sono disponibili i risultati della prova di recupero di giorno 13/01/2023.
-
-#- *[08 Gen 2023]* Al seguente [link](https://drive.google.com/file/d/1WsVk5-IVbafOXJAOFls9BIOOiHl5nDFk/view?usp=sharing) sono disponibili gli esiti complessivi per il modulo di database. Gli studenti che hanno superato solo una delle due prove, possono partecipare alla prova di recupero del 13/01/2022 (prenotandosi nell'apposita sezione su STUDIUM). Gli studenti che invece non hanno superato nessuna delle due prove, portranno partecipare (sostenendo solo la prova integrata del modulo DATABASE) nelle date ufficiali previste per il mese di febbraio.  
-
-#- *[08 Gen 2023]* Al seguente [link](https://drive.google.com/file/d/1AdUy5CU39JTmpcSmUU5B1-Pxmb0CxfAl/view?usp=sharing) sono disponibili gli esiti della prova di progettazione del 23/12/2022. La visione del compito sarà possibile solo martedì 10/01/2023 alle ore 11.30 presso il polo tecnologico, previa prenotazione via email.
-
-#- *[14 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1JeExnh4fkVvALl7UPEuexoQWb6IvLwTS/view?usp=share_link) trovate testi di compiti degli anni scorsi, mentre al [link](https://drive.google.com/file/d/1rZw-rLV7osW9wiqL-lGTtry6Ru0Dgc6a/view?usp=share_link), sono disponibili compiti svolti di progettazione concettuale.
-#- *[05 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1_R46_2HDsmRN_EBWqstUzIdtIe1g1fJd/view?usp=sharing) trovate il testo dell'homework sulla progettazione concettuale. Il compito deve essere consegnato digitalmente su studium. La scadenza è giorno 12/12/2022 alle ore 13:00.
-#- *[02 Dic 2022]* Al seguente [link](https://drive.google.com/file/d/1Q52Tmdu1wEix__IcpFng0Kj8h4Pl4boD/view?usp=sharing) sono disponibili gli esiti della prova in itinere di SQL del 18/11/2022. Gli studenti che non hanno superato questa prova, potranno partecipare alla prova di progettazione e poi recuperare in una data a gennaio, da fissare. A questa prova potranno anche partecipare gli studenti che intendono migliorare il proprio voto. Nel qual caso, la votazione che varrà ai fini del calcolo della media finale, sarà quella relativa all'ultima prova sostenuta. Infine, la visione del compito sarà possibile solo martedì 06/12/2022 alle ore 16.00 presso il polo tecnologico, previa prenotazione via email.
-
-#- *[15 Nov 2022]* La prova in itinere si terrà giorno 18/11/2022 alle ore 8.15 presso l'aula D44. Si ricorda che è OBBLIGATORIA la prenotazione che scade oggi alle ore 12.00. Gli studenti durante la prova, dovranno usare il loro PC (con wi-fi disabilitato) e potranno usare un foglio A4 (fronte e retro) di appunti. 
-#- *[15 Nov 2022]* Al seguente [link](https://drive.google.com/file/d/1OcjCKK89wueKIqpjP-DhuApPRinrxvK6/view?usp=sharing) sono disponibili alcune varianti delle prove in itinere degli anni precedenti. 
-
-#- *[17 Ott 2022]* Al seguente [link](https://drive.google.com/file/d/1ft-fxOpp31ONrp2tC7mzMaXYy0HpkkB7/view?usp=sharing) [(+dati)](https://drive.google.com/file/d/1B3x7M0oJwgYu4Gzf-vE2RZdjXJ87JlXW/view?usp=sharing) è pubblicato il testo dell'homework sugli operatori aggregati. La consegna del file .sql contenente le query SQL deve essere fatta su Studium entro le ore 23.59 del 23/10/2022
-#- *[11 Ott 2022]* Al seguente [link](https://drive.google.com/file/d/18ktpSfI02fh0agXa_MiZqlxjJWuY0vVO/view?usp=sharing) è pubblicato il testo dell'homework sull'algebra relazionale. La consegna, secondo la modalità descritta, deve essere fatta su Studium entro le ore 23.59 del 15/10/2022-->
 - *[02 Ott 2023]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 ottobre 2023 e di accedente al link discord entro il 10 ottobre 2023. 
 
 # FORUM STUDENTI
