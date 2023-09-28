@@ -25,7 +25,7 @@ layout: default
 
 # FORUM STUDENTI
 {: #tag}
-Durante il corso si utilizzera' il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/wGUg7JkS) entro il 10 Ottobre 2023.
+Durante il corso si utilizzera' il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/fGSCvYHpfv) entro il 10 Ottobre 2023.
 
 # REGISTRAZIONE
 {: #tag}
