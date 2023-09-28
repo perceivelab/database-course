@@ -38,7 +38,7 @@ Per la gestione della logistica degli esami e dei laboratori è necessario regis
 - Studenti che frequentano il corso, possono partecipare alle due prove in itinere: 1) Prova pratica SQL e NoSQL e 2) Prova di progettazione.
 
 
-# PROVE ITINERE 
+# Lezioni 
 La roadmap e' provvisoria e puo' subire variazioni.
 
 | Lezione    | Argomento          | Data    |
@@ -62,8 +62,10 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 17     | Progettazione logica   | 04 Dicembre 2023   |
 | 18     | Esercitazione progettazione logica        | 06 Dicembre 2023  |
 | 19     | Esercitazione complessiva progettazione   | 11 Dicembre 2023   |
-| 20     | Prova in itinere   | 18 Dicembre 2023   |
 
+
+# PROVE ITINERE 
+| 1     | Prova in itinere   | 22 Dicembre 2023   |
 
 # DATE ESAME DATABASE
 Il calendario dell'esame è disponibile al [link](https://www.dieei.unict.it/sites/default/files/files/CalendarioEsami_L8INF_2022-2023_delibera.pdf)
