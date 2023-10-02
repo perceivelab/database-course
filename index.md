@@ -21,7 +21,7 @@ layout: default
 
 # AVVISI
 
-- *[02 Ott 2023]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 ottobre 2023 e di accedente al link discord entro il 10 ottobre 2023. 
+- *[02 Ott 2023]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 ottobre 2023. 
 
 # FORUM STUDENTI
 {: #tag}
