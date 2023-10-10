@@ -21,7 +21,8 @@ layout: default
 
 # AVVISI
 
-- *[02 Ott 2023]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 ottobre 2023. 
+- *[02 Ott 2023]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 Ottobre 2023.
+- *[10 Ott 2023]* Le soluzioni delle esercitazioni del giorno 09 Ottobre 2023 si possono scaricare al seguente [link.] (https://drive.google.com/file/d/1QGiB_iPOpS9dAH7UdFzTralQlSKM2m97/view?usp=sharing)
 
 # FORUM STUDENTI
 {: #tag}
