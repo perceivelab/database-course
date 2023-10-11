@@ -23,6 +23,8 @@ layout: default
 
 - *[02 Ott 2023]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 Ottobre 2023.
 - *[10 Ott 2023]* Le soluzioni delle esercitazioni del giorno 09 Ottobre 2023 si possono scaricare al seguente [link](https://drive.google.com/file/d/1QGiB_iPOpS9dAH7UdFzTralQlSKM2m97/view?usp=sharing).
+- *[10 Ott 2023]* Si avvisano gli studenti che XAMPP si puo' scaricare dal seguente [link](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe/download
+). Per chi volesse installare solo MySQL Server e Workbench si puo' usare il seguente [link](https://dev.mysql.com/downloads/mysql/).
 
 # FORUM STUDENTI
 {: #tag}
@@ -63,7 +65,6 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 17     | Progettazione logica   | 04 Dicembre 2023   |
 | 18     | Esercitazione progettazione logica        | 06 Dicembre 2023  |
 | 19     | Esercitazione complessiva progettazione   | 11 Dicembre 2023   |
-
 
 # PROVE ITINERE 
 22 Dicembre 2023   
