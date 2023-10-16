@@ -12,6 +12,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 2  | Algebra relazionale                      | 04 Ottobre 2023   | [Algebra Relazionale](https://drive.google.com/file/d/1A-qmts9eQMoQPqdN6f6_j1QWPLIntvNc/view?usp=sharing)       |      [Link](https://drive.google.com/file/d/1xhLANQBfE-IPZenv5l__r-LpDB_vGVbi/view?usp=sharing)  |
 | Esercitazione 1  | Algebra relazionale                      | 09 Ottobre 2023   |    |      [Link](https://drive.google.com/file/d/1jGRLpZON_ydNYmKO80tpAFVwFnf0xMPU/view?usp=drive_link)  |
 | Lezione 4  | SQL: Concetti di base                    | 11 Ottobre 2023   | [Concetti base](https://drive.google.com/file/d/1fG6gzViO1lCwVUnOTlMy4aAFP1ebPNXA/view?usp=sharing)                        |             |
+| Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL](https://drive.google.com/file/d/1Pqm2TqSfBQXboEPyh3y2eGgEH5mt-PA7/view?usp=share_link)                        |             |
+|   |                     | 16 Ottobre 2023   | [Testo e Dati](https://drive.google.com/file/d/1i7J1amDr4M01sJzI3dO-i5pdI1dERq1H/view?usp=share_link)                        |             |
 
 
 
