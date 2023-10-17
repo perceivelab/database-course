@@ -50,8 +50,8 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 2     | Algebra relazionale   | 04 Ottobre 2023   |
 | 3     | Esercitazione algebra relazionale         | 09 Ottobre 2023  |
 | 4     | SQL: Concetti base   | 11 Ottobre 2023   |
-| 5     | SQL Avanzato + MySQL         | 16 Ottobre 2023  |
-| 6     | Esercitazione Base + Avanzato   | 18 Ottobre 2023   |
+| 5     | Esercitazione Base + MySQL         | 16 Ottobre 2023  |
+| 6     | SQL Avanzato| 18 Ottobre 2023   |
 | 7     | SQL: Stored procedure e Trigger         | 23 Ottobre 2023  |
 | 8     | Esercitazione SQL: Stored procedure   | 25 Ottobre 2023   |
 | 9     | Esercitazione SQL: Trigger        | 30 Ottobre 2023  |
