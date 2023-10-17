@@ -21,7 +21,6 @@ layout: default
 
 # AVVISI
 - *[17 Ott 2023]* La data per la scadenza dell'homework (completare esercitazione il cui testo è disponibile nella sezione lezioni) assegnato in data 16/10/2023 è giorno 19/10/2023 alle ore 23.59. La consegna dell'homework è obbligatoria per la partecipazione alla prova in itinere. Per ragioni di praticità la consegna degli homework avverrà tramite Studium. 
-- 
 - *[02 Ott 2023]* Inizio ufficiale lezioni. Si ricorda di registrarsi al corso entro il 15 Ottobre 2023.
 - *[10 Ott 2023]* Le soluzioni delle esercitazioni del giorno 09 Ottobre 2023 si possono scaricare al seguente [link](https://drive.google.com/file/d/1QGiB_iPOpS9dAH7UdFzTralQlSKM2m97/view?usp=sharing).
 - *[10 Ott 2023]* Si avvisano gli studenti che XAMPP si puo' scaricare dal seguente [link](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe/download
