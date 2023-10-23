@@ -25,6 +25,9 @@ layout: default
 - *[10 Ott 2023]* Le soluzioni delle esercitazioni del giorno 09 Ottobre 2023 si possono scaricare al seguente [link](https://drive.google.com/file/d/1QGiB_iPOpS9dAH7UdFzTralQlSKM2m97/view?usp=sharing).
 - *[10 Ott 2023]* Si avvisano gli studenti che XAMPP si puo' scaricare dal seguente [link](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe/download
 ). Per chi volesse installare solo MySQL Server e Workbench si puo' usare il seguente [link](https://dev.mysql.com/downloads/mysql/).
+- *[23 Ott 2023]* La scadenza per la consegna dell'homework sulle query nidificate e' spostata per il giorno 25.
+
+
 
 # FORUM STUDENTI
 {: #tag}
