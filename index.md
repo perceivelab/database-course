@@ -52,9 +52,9 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 4     | SQL: Concetti base   | 11 Ottobre 2023   |
 | 5     | Esercitazione Base + MySQL         | 16 Ottobre 2023  |
 | 6     | SQL Avanzato| 18 Ottobre 2023   |
-| 7     | SQL: Stored procedure e Trigger         | 23 Ottobre 2023  |
-| 8     | Esercitazione SQL: Stored procedure   | 25 Ottobre 2023   |
-| 9     | Esercitazione SQL: Trigger        | 30 Ottobre 2023  |
+| 7     | Esercitazione Operatori Aggregati   | 23 Ottobre 2023   |
+| 8     | SQL: Stored procedure e Trigger     | 25 Ottobre 2023  |
+| 9     | Esercitazione SQL: Progedure e Trigger        | 30 Ottobre 2023  |
 | 10     | Esercitazione complessiva SQL   | 06 Novembre 2023   |
 | 11     | Esercitazione complessiva SQL        | 08 Novembre 2023  |
 | 12     | NoSQL   | 13 Novembre 2023   |
