@@ -15,7 +15,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL](https://drive.google.com/file/d/1Pqm2TqSfBQXboEPyh3y2eGgEH5mt-PA7/view?usp=share_link)                        |             |
 |   |                     | 16 Ottobre 2023   | |[Testo e Dati](https://drive.google.com/file/d/1i7J1amDr4M01sJzI3dO-i5pdI1dERq1H/view?usp=share_link)                        |             
 | Lezione 6  | SQL: Operatori aggregati                   | 18 Ottobre 2023   | [Operatori aggregati](https://drive.google.com/file/d/1A4mCEehIwVzy1upPbaMFVsH7opPb6-3o/view?usp=sharing)                        |             |
-| Lezione 7  | Esercitazione operatori aggregati                    | 23 Ottobre 2023   | [Testo e dati](https://drive.google.com/file/d/1alp57gl_lSawSC__nKefzSyRTYZMPwdD/view?usp=sharing)                        |          |
+| Lezione 7  | Esercitazione operatori aggregati                    | 23 Ottobre 2023   | | [Testo e dati](https://drive.google.com/file/d/1alp57gl_lSawSC__nKefzSyRTYZMPwdD/view?usp=sharing)                        |          |
 
 
 
