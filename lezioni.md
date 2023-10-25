@@ -15,7 +15,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL](https://drive.google.com/file/d/1Pqm2TqSfBQXboEPyh3y2eGgEH5mt-PA7/view?usp=share_link)                        |   [Testo e Dati](https://drive.google.com/file/d/1i7J1amDr4M01sJzI3dO-i5pdI1dERq1H/view?usp=share_link)          |
 | Lezione 6  | SQL: Operatori aggregati                   | 18 Ottobre 2023   | [Operatori aggregati](https://drive.google.com/file/d/1A4mCEehIwVzy1upPbaMFVsH7opPb6-3o/view?usp=sharing)                        |             |
 | Lezione 7  | Esercitazione operatori aggregati                    | 23 Ottobre 2023   | | [Testo e dati](https://drive.google.com/file/d/1G4ahE5VfEiN24muC71vMFQ-5_-l-DOiC/view?usp=sharing), [Soluzione1](https://drive.google.com/file/d/1spNlz6uf3L99u0WcApaVwyBlIPntX-hm/view?usp=sharing)                        |          |
-| Lezione 8  | SQL Avanzato: Viste, Trigger e Procedure                    | 25 Ottobre 2023   | [Viste,Trigger,Procedures](https://drive.google.com/file/d/1ozn-jZ9T1RyDab2dNy-xAMl50L3Jh-_p/view?usp=sharing)
+| Lezione 8  | SQL Avanzato: Viste, Trigger e Procedure                    | 25 Ottobre 2023   | [Viste, Trigger, Procedure](https://drive.google.com/file/d/1ozn-jZ9T1RyDab2dNy-xAMl50L3Jh-_p/view?usp=sharing)
 
 
 
