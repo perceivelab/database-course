@@ -20,8 +20,8 @@ layout: default
 
 
 # AVVISI
-- *[31 Ott 2023]* La scadenza per la consegna dell'homework sull'esercitazione sull'implementazione dei vincoli di integrita' referenziale tramite trigger e' il giorno 7/11.
-- *[31 Ott 2023]* La scadenza per la consegna dell'homework sull'esercitazione 2 del giorno 23/10/2023  e' spostata per il giorno 2/11.
+- *[31 Ott 2023]* La scadenza per la consegna dell'homework sull'esercitazione sull'implementazione dei vincoli di integrita' referenziale tramite trigger e' il giorno 11/11/2023 alle ore 23:59.
+- *[31 Ott 2023]* La scadenza per la consegna dell'homework sull'esercitazione 2 del giorno 23/10/2023  e' spostata per il giorno 4/11/2023 alle ore 23:59.
 - *[23 Ott 2023]* La scadenza per la consegna dell'homework sulle query nidificate e' spostata per il giorno 25.
 - *[17 Ott 2023]* La data per la scadenza dell'homework (completare esercitazione il cui testo è disponibile nella sezione lezioni) assegnato in data 16/10/2023 è giorno 19/10/2023 alle ore 23.59. La consegna dell'homework è obbligatoria per la partecipazione alla prova in itinere. Per ragioni di praticità la consegna degli homework avverrà tramite Studium. 
 - *[10 Ott 2023]* Le soluzioni delle esercitazioni del giorno 09 Ottobre 2023 si possono scaricare al seguente [link](https://drive.google.com/file/d/1QGiB_iPOpS9dAH7UdFzTralQlSKM2m97/view?usp=sharing).
