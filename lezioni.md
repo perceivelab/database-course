@@ -17,6 +17,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 7  | Esercitazione operatori aggregati                    | 23 Ottobre 2023   | | [Testo e dati](https://drive.google.com/file/d/1G4ahE5VfEiN24muC71vMFQ-5_-l-DOiC/view?usp=sharing), [Soluzione1](https://drive.google.com/file/d/1spNlz6uf3L99u0WcApaVwyBlIPntX-hm/view?usp=sharing)                        |          |
 | Lezione 8  | SQL Avanzato: Viste, Trigger e Procedure                    | 25 Ottobre 2023   | [Viste, Trigger, Procedure](https://drive.google.com/file/d/1ozn-jZ9T1RyDab2dNy-xAMl50L3Jh-_p/view?usp=sharing)
 | Lezione 9  | Esercitazione  Trigger e Procedure                    | 30 Ottobre 2023   | | [Testo e dati](https://drive.google.com/file/d/1ObvX1ge8y0DprSpLNIfv-BbeP2Fhrj-v/view?usp=sharing), [Soluzioni](https://drive.google.com/file/d/196iZq1glejybu-TEcTCswHY-MSgDI8o-/view?usp=sharing)                       |          |
+| Lezione 10  | Esercitazione  Complessiva SQL| 06 Novembre 2023   | | [Testo](https://drive.google.com/file/d/1pbttccp4-NdnaE90PqPlc-5KEhYKgs4V/view?usp=sharing), [Dati](https://drive.google.com/file/d/1dTAEG8rbLhUP7Gpno-ZeZBgRbVninQAp/view?usp=sharing)                       |          |
 
 
 
