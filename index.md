@@ -62,14 +62,15 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 9     | Esercitazione SQL: Progedure e Trigger        | 30 Ottobre 2023  |
 | 10     | Esercitazione complessiva SQL   | 06 Novembre 2023   |
 | 11     | Esercitazione complessiva SQL        | 08 Novembre 2023  |
-| 12     | NoSQL   | 13 Novembre 2023   |
-| 13     | Esercitazione NoSQL 1        | 20 Novembre 2023  |
-| 14     | Esercitazione NoSQL 2   | 22 Novembre 2023  | 
-| 15     | Progettazione concettuale       | 27 Novembre 2023  |
-| 16     | Esempi progettazione concettuale      | 29 Novembre 2023  |
-| 17     | Progettazione logica   | 04 Dicembre 2023   |
-| 18     | Esercitazione progettazione logica        | 06 Dicembre 2023  |
-| 19     | Esercitazione complessiva progettazione   | 11 Dicembre 2023   |
+| 12     | Simulazione prova SQL        | 13 Novembre 2023  |
+| 13     | NoSQL   | 15 Novembre 2023   |
+| 14     | Esercitazione NoSQL 1        | 20 Novembre 2023  |
+| 15     | Esercitazione NoSQL 2   | 22 Novembre 2023  | 
+| 16     | Progettazione concettuale       | 27 Novembre 2023  |
+| 17     | Esempi progettazione concettuale      | 29 Novembre 2023  |
+| 18     | Progettazione logica   | 04 Dicembre 2023   |
+| 19     | Esercitazione progettazione logica        | 06 Dicembre 2023  |
+| 20     | Esercitazione complessiva progettazione   | 11 Dicembre 2023   |
 
 # PROVE ITINERE 
 22 Dicembre 2023   
