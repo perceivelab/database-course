@@ -19,7 +19,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 9  | Esercitazione  Trigger e Procedure                    | 30 Ottobre 2023   | | [Testo e dati](https://drive.google.com/file/d/1ObvX1ge8y0DprSpLNIfv-BbeP2Fhrj-v/view?usp=sharing), [Soluzioni](https://drive.google.com/file/d/196iZq1glejybu-TEcTCswHY-MSgDI8o-/view?usp=sharing)                       |          |
 | Lezione 10  | Esercitazione  Complessiva SQL - 1| 06 Novembre 2023   | | [Testo](https://drive.google.com/file/d/1Vojmmpwx2-9t_jbwWkKjqjVJo5rr1Fnf/view?usp=sharing), [Dati](https://drive.google.com/file/d/1h2KtBlItR-cOHQgV1PC1R31B9pLWum_K/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1ItkEegrrIM5Gz49Ez-mcWSxHH8kfjS9I/view?usp=sharing)                       |          |
 | Lezione 11  | Esercitazione  Complessiva SQL - 2| 08 Novembre 2023   | | [Testo](https://drive.google.com/file/d/1WPOVOcOZfmL2bCSfOmE3OY0plZihMW4a/view?usp=sharing), [Dati](https://drive.google.com/file/d/1kL5wH4UwKUIlBE-qP2eeDdKiYSfla0zg/view?usp=sharing), Soluzione                       |          |
-
+| Lezione 12  | Simulazione Prova SQL             | 13 Novembre 2023   | | [Testo](https://drive.google.com/file/d/1WwoIEp-ZXCdvkpyH_bOdL_NcqbSlScj3/view?usp=sharing), Soluzione |
+| Lezione 13  | Progettazione Concettuale         | 15 Novembre 2023   | [Progettazione Concettuale](https://drive.google.com/file/d/1T2qWYqu8RRHym9q3uZ5yKG5jCa4KesMx/view?usp=sharing) |  |
 
 
 [404]: /web-programming-course/fallback
