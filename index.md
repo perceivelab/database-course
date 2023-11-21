@@ -20,6 +20,7 @@ layout: default
 
 
 # AVVISI
+- *[21 Nov 2023]* Su studium è stata creata la consegna per l'HW6 (progettuale concettuale). Il testo è disponibile al seguente [link](https://drive.google.com/file/d/1Zqa9cG7AU2IWQW-qrpkerJSD9imdf0Y9/view) La scadenza per la consegna di questo HW e' giorno 01/12/2023 alle ore 23:59.
 - *[10 Nov 2023]* Su studium è stata creata la consegna per l'HW5 (esercitazione di giorno 08/11/2023). La scadenza per la consegna di questo HW e' giorno 20/11/2023 alle ore 23:59.
 - *[31 Ott 2023]* La scadenza per la consegna dell'homework sull'esercitazione sull'implementazione dei vincoli di integrita' referenziale tramite trigger e' il giorno 11/11/2023 alle ore 23:59.
 - *[31 Ott 2023]* La scadenza per la consegna dell'homework sull'esercitazione 2 del giorno 23/10/2023  e' spostata per il giorno 4/11/2023 alle ore 23:59.
