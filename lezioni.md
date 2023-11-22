@@ -22,6 +22,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 12  | Simulazione Prova SQL             | 13 Novembre 2023   | | [Testo](https://drive.google.com/file/d/1WwoIEp-ZXCdvkpyH_bOdL_NcqbSlScj3/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1RQFwUKqQqOzh9r09nkANdop1etKegJSS/view?usp=sharing) |
 | Lezione 13  | Progettazione Concettuale         | 15 Novembre 2023   | [Progettazione Concettuale](https://drive.google.com/file/d/1T2qWYqu8RRHym9q3uZ5yKG5jCa4KesMx/view?usp=sharing) |  |
 | Lezione 14  | Esercizi progettazione concettuale| 20 Novembre 2023   | [Testi esercizi](https://drive.google.com/file/d/1bumTEK2c8FPxLR13vt1b4YN0CYs2eGqG/view?usp=sharing) |  [Testo HW](https://drive.google.com/file/d/1Zqa9cG7AU2IWQW-qrpkerJSD9imdf0Y9/view?usp=sharing)|
+| Lezione 15 | Progettazione logica | 22 Novembre 2023 | [Progettazione logica](https://drive.google.com/file/d/1EpZHqbGwYR_F4ZkJp-eD7WveW_3aOoeU/view?usp=sharing) | | 
 
 
 
