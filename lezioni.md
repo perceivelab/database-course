@@ -23,7 +23,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 13  | Progettazione Concettuale         | 15 Novembre 2023   | [Progettazione Concettuale](https://drive.google.com/file/d/1T2qWYqu8RRHym9q3uZ5yKG5jCa4KesMx/view?usp=sharing) |  |
 | Lezione 14  | Esercizi progettazione concettuale| 20 Novembre 2023   | [Testi esercizi](https://drive.google.com/file/d/1bumTEK2c8FPxLR13vt1b4YN0CYs2eGqG/view?usp=sharing) |  [Testo HMW](https://drive.google.com/file/d/1Zqa9cG7AU2IWQW-qrpkerJSD9imdf0Y9/view?usp=sharing)|
 | Lezione 15 | Progettazione logica | 22 Novembre 2023 | [Progettazione logica](https://drive.google.com/file/d/1EpZHqbGwYR_F4ZkJp-eD7WveW_3aOoeU/view?usp=sharing) | | 
-| Lezione 16 | Esercizi Progettazione logica | 27 Novembre 2023 | | [Testi](https://drive.google.com/file/d/143lK6aGmQ48AvgFSiNPsQmWW4fF1w77f/view?usp=sharing) | 
+| Lezione 16 | Esercizi progettazione logica | 27 Novembre 2023 | | [Testi](https://drive.google.com/file/d/143lK6aGmQ48AvgFSiNPsQmWW4fF1w77f/view?usp=sharing) | 
 
 
 
