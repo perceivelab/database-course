@@ -23,8 +23,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 13  | Progettazione Concettuale         | 15 Novembre 2023   | [Progettazione Concettuale](https://drive.google.com/file/d/1T2qWYqu8RRHym9q3uZ5yKG5jCa4KesMx/view?usp=sharing) |  |
 | Lezione 14  | Esercizi progettazione concettuale| 20 Novembre 2023   | [Testi esercizi](https://drive.google.com/file/d/1bumTEK2c8FPxLR13vt1b4YN0CYs2eGqG/view?usp=sharing) |  [Testo HMW](https://drive.google.com/file/d/1Zqa9cG7AU2IWQW-qrpkerJSD9imdf0Y9/view?usp=sharing)|
 | Lezione 15 | Progettazione logica | 22 Novembre 2023 | [Progettazione logica](https://drive.google.com/file/d/1EpZHqbGwYR_F4ZkJp-eD7WveW_3aOoeU/view?usp=sharing) | | 
-| Lezione 16 | Esercizio progettazione logica | 27 Novembre 2023 | | [Testi](https://drive.google.com/file/d/1hh_4aliFI6IDKaqrGcNKxkl3tXKgIwb7/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1xj8WvXiotBFhdqg26Pvjh9_fVahr4kpQ/view?usp=sharing) | 
-| Lezione 17 | Esercizi  progettazione logica | 29 Novembre 2023 | | [Testi](https://drive.google.com/file/d/143lK6aGmQ48AvgFSiNPsQmWW4fF1w77f/view?usp=sharing), [Soluzioni](https://drive.google.com/file/d/1hhec66uvZzTVc0nuV36JAw_ASeqWU0cu/view?usp=sharing) | 
+| Lezione 16 | Esercitazione progettazione logica | 27 Novembre 2023 | | [Testo](https://drive.google.com/file/d/1QK_tr2etbt9YKdcQF2X5bS9tYZeZ_Siu/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1xj8WvXiotBFhdqg26Pvjh9_fVahr4kpQ/view?usp=sharing) | 
+| Lezione 17 | Esercitazione progettazione logica | 29 Novembre 2023 | | [Testi](https://drive.google.com/file/d/1J9mexl4fCIVR93trQCa3qXvpTJ8wZqru/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1Hzn0eQrJ4ur7ijeI7c1QDZ8xG0SrZ7yq/view?usp=sharing) | 
 
 [404]: /web-programming-course/fallback
 
