@@ -27,7 +27,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 |            |                                    | 27 Novembre 2023 | | [Testo2](https://drive.google.com/file/d/1rDVTvbkonUkjhh9WkvoY89yV-5_7dY9e/view?usp=sharing), [Soluzione2](https://drive.google.com/file/d/1gc-QkVkam_TYhIPCcYJZRGNXi7AO9X64/view?usp=sharing) | 
 | Lezione 17 | Esercitazione progettazione logica | 29 Novembre 2023 | | [Testo](https://drive.google.com/file/d/1J9mexl4fCIVR93trQCa3qXvpTJ8wZqru/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1Hzn0eQrJ4ur7ijeI7c1QDZ8xG0SrZ7yq/view?usp=sharing) | 
 | Lezione 18 | Simulazione prova di progettazione | 04 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1iI1n25r_GHPQzqKUQZtNYZrnV0JdoB15/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1K2atC5VFIMhi1tcf00qUGrVIDGg01ota/view?usp=sharing) | 
-| Lezione 18 | Esecitazione progettazione logica  | 09 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1FxgOPBFh3eEDcDCXQEH9osvpgX-Ur4yd/view?usp=sharing), [Soluzione]() | 
+| Lezione 19 | Esecitazione progettazione logica  | 09 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1FxgOPBFh3eEDcDCXQEH9osvpgX-Ur4yd/view?usp=sharing), [Soluzione]() | 
 
 [404]: /web-programming-course/fallback
 
