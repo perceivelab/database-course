@@ -71,10 +71,10 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 14     | Esempi progettazione concettuale      | 17 Novembre 2023  |
 | 15     | Progettazione logica   | 22 Novembre 2023   |
 | 16     | Esercitazione progettazione logica        | 27 Novembre 2023  |
-| 17     | Esercitazione complessiva progettazione   | 29 Novembre 2023   |
-| 18     | NoSQL   | 04 Dicembre 2023   |
-| 19     | Esercitazione NoSQL 1        | 06 Dicembre 2023  |
-| 20     | Esercitazione NoSQL 2   | 11 Dicembre 2023  | 
+| 17     | Esercitazione progettazione logica II   | 29 Novembre 2023   |
+| 18     | Simulazione prova progettazione | 04 Dicembre 2023   |
+| 19     | Esercitazione progettazione | 06 Dicembre 2023  |
+| 20     | Esercitazione SQL    | 11 Dicembre 2023  | 
 
 
 # PROVE FINALE 
