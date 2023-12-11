@@ -21,7 +21,7 @@ layout: default
 
 # AVVISI
 
-
+- *[11 Dic 2023]* Al seguente [link](https://drive.google.com/file/d/1XB-9rAfjfNJBU3R8tG5M7LjP4MUoHx5L/view?usp=sharing) è disponibile l'elenco degli studenti ammessi alla prova in itinere. Si ricorda che, come detto più volte a lezione, la condizione necessaria e sufficiente per essere ammessi è aver svolto almeno 4 degli 8 homework.
 - *[11 Dic 2023]* Al seguente [link](https://drive.google.com/drive/folders/1arDOIwwk9kbYYq2LnrAhxb2ro3ECiIdn?usp=sharing) sono disponibili alcune soluzioni di progettazione logica dei compiti passati. 
 - *[11 Dic 2023]* La lezione di oggi non si terrà. Le lezioni riprenderanno regolarmente giorno 13/12/2023.
 - *[30 Nov 2023]* Al seguente [link](https://drive.google.com/file/d/1NsUD0S-Za3rHmdlJ6wj-eYclzNrcMTDU/view?usp=sharing) sono disponibili i testi (senza soluzioni) di alcune delle prove di progettazione degli anni passati. 
