@@ -20,6 +20,9 @@ layout: default
 
 
 # AVVISI
+
+
+- *[11 Dic 2023]* Al seguente [link](https://drive.google.com/drive/folders/1arDOIwwk9kbYYq2LnrAhxb2ro3ECiIdn?usp=sharing) sono disponibili alcune soluzioni di progettazione logica dei compiti passati. 
 - *[11 Dic 2023]* La lezione di oggi non si terrà. Le lezioni riprenderanno regolarmente giorno 13/12/2023.
 - *[30 Nov 2023]* Al seguente [link](https://drive.google.com/file/d/1NsUD0S-Za3rHmdlJ6wj-eYclzNrcMTDU/view?usp=sharing) sono disponibili i testi (senza soluzioni) di alcune delle prove di progettazione degli anni passati. 
 - *[28 Nov 2023]* Al seguente [link](https://drive.google.com/file/d/1SKFW3eZT4eWaFEGpLWVNa1bgKL_qHsxg/view?usp=sharing) sono disponibili alcuni testi e relative soluzioni delle prove intermedie di SQL degli anni scorsi. 
