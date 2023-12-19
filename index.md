@@ -20,7 +20,7 @@ layout: default
 
 
 # AVVISI
-
+- *[19 Dic 2023]* Al seguente [link](https://drive.google.com/file/d/1PuiKn2b6IRGKK8T7URO1-Yb5wtyxje2d/view?usp=drive_link) è disponibile il testo della simulazione della prova in itinere. 
 - *[14 Dic 2023]* Su Studium è disponibile il link per la prenotazione alla prova in itinere di giorno 22/12/2023. **Le prenotazioni chiuderanno inderogabilmente alle ore 23.59 del 20/12/2023**.  L'esame si terrà nella fascia oraria dalle 9 alle 13 presso l'edificio della didattica. Entro le ore 16 di giorno 21/12/2023 saranno pubblicati gli elenchi degli studenti prenotati con relativo orario e aula.
 - *[14 Dic 2023]*  Lunedì alle 14 si terrà il seminario sulle "Blockchain" tenuto dall'azienda AGM solution. 
 - *[11 Dic 2023]* Al seguente [link](https://drive.google.com/file/d/1XB-9rAfjfNJBU3R8tG5M7LjP4MUoHx5L/view?usp=sharing) è disponibile l'elenco degli studenti ammessi alla prova in itinere. Si ricorda che, come detto più volte a lezione, la condizione necessaria e sufficiente per essere ammessi è aver svolto almeno 4 degli 8 homework.
