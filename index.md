@@ -20,6 +20,7 @@ layout: default
 
 
 # AVVISI
+- *[21 Dic 2023]* L'esame domani si terrà in unico turno dalle 9 alle 13 presso le aule D31 e D32.  Gli studenti i cui cognomi sono tra [MAC%-REF%] andranno in aula D31, mentre gli studenti i cui cognomi sono tra [REI%-Z%] in aula D32. Si prega di attendere fuori dall'aula. Si ricorda che è ammesso solo un foglio A4 (fronte e retro) di appunti e che la connessione dei dispositivi deve essere spenta. La violazione di tali regole comporta l'esclusione immediata dalla prova.
 - *[19 Dic 2023]* Al seguente [link](https://drive.google.com/file/d/1PuiKn2b6IRGKK8T7URO1-Yb5wtyxje2d/view?usp=drive_link) è disponibile il testo della simulazione della prova in itinere. La soluzione è disponibile al seguente [link](https://drive.google.com/file/d/1ama2kyBFYHLhxlq0atALJ2DExQFSHYKg/view?usp=sharing).
 - *[14 Dic 2023]* Su Studium è disponibile il link per la prenotazione alla prova in itinere di giorno 22/12/2023. **Le prenotazioni chiuderanno inderogabilmente alle ore 23.59 del 20/12/2023**.  L'esame si terrà nella fascia oraria dalle 9 alle 13 presso l'edificio della didattica. Entro le ore 16 di giorno 21/12/2023 saranno pubblicati gli elenchi degli studenti prenotati con relativo orario e aula.
 - *[14 Dic 2023]*  Lunedì alle 14 si terrà il seminario sulle "Blockchain" tenuto dall'azienda AGM solution. 
