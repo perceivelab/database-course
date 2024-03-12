@@ -21,6 +21,7 @@ layout: default
 
 # AVVISI
 
+- *[12 Mar 2024]* Al seguente [link](https://drive.google.com/file/d/1OhGAhpWahXT8aH3983dH7ohFQrD-2icb/view?usp=sharing) sono disponibili i risultati della prova del 19/02/2024. 
 - *[13 Feb 2024]* Al seguente [link](https://drive.google.com/file/d/1StJdES9zXZYAfUavCk4HhlqexqM64DkV/view?usp=sharing) sono disponibili i risultati della prova del 29/01/2024. 
 - *[08 Gen 2024]* Al seguente [link](https://drive.google.com/file/d/14XDf1dFMzfGNVS6B2uxRpRVSjs1drqkP/view?usp=sharing) sono disponibili i risultati della prova in itinere del 22/12/2023. Gli studenti che non hanno superato la prova e o che intendano rifare l'esame, possono presentarsi (prenotazione su STUDIUM, non sul GOMPP) all'appello di giorno 29/01/2024. La visione dei compiti sarà possibile giorno 15/01/2024 dalle ore 10.00 alle ore 12.00 previa prenotazione via email.
 - *[21 Dic 2023]* L'esame domani si terrà in unico turno dalle 9 alle 13 presso le aule D31 e D32.  Gli studenti i cui cognomi sono tra [MAC%-REF%] andranno in aula D31, mentre gli studenti i cui cognomi sono tra [REI%-Z%] in aula D32. Si prega di attendere fuori dall'aula. Si ricorda che è ammesso solo un foglio A4 (fronte e retro) di appunti e che la connessione dei dispositivi deve essere spenta. La violazione di tali regole comporta l'esclusione immediata dalla prova.
